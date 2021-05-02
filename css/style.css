@@ -23,6 +23,10 @@ body a {
     background-color: rgb(160, 59, 59);
 }
 
+#console-list li.active {
+    background-color: rgb(185, 114, 114);
+}
+
 #table-container {
     display: block;
     position: absolute;
