@@ -1,3 +1,59 @@
 body {
-    background-color: red;
+    background-color: darkred;
+    text-align: center;
+    color: white;
+}
+
+body a {
+    color: darkgrey;
+}
+
+#console-list ul {
+    display: inline-block;
+    margin-block-start: 0em;    
+    padding-inline-start: 0px;
+}
+
+#console-list li {
+    display: block;
+    float: left;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 5px;
+    background-color: rgb(160, 59, 59);
+}
+
+#table-container {
+    display: block;
+    position: absolute;
+    top: 150px;
+    left: 10px;
+    right: 10px;
+    bottom: 50px;
+}
+
+#table-container table {
+    overflow: scroll;
+    display: block;
+    background-color: white;    
+    position: absolute;
+    top: 80px;
+    left: px;
+    right: 0px;
+    bottom: 0px;
+    color: black;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0px;
+    height: 40px;
+    left: 10px;
+    right: 10px;
+}
+
+.console input {
+    clear: both;
+    margin: 20px;
+    padding: 5px;
 }
