@@ -1,0 +1,1466 @@
+Game,#,Key in…,Effect…,Code Source,Original Order
+Addams Family,1,3AB-9F9-195,Start with 1/4 energy 1st life,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1026
+Addams Family,2,7AB-9F9-195,Start with 1/2 energy 1st life,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1027
+Addams Family,3,BBB-9F9-195,Start with 3/4 energy 1st life,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1028
+Addams Family,4,01B-AD9-F7E,Start with 2 lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1029
+Addams Family,5,07B-AD9-F7E,Start with 8 lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1030
+Addams Family,6,09B-AD9-F7E,Start with 10 lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1031
+Addams Family,7,006-46F-F7A,Immune to everything,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1032
+Addams Family,8,3A4-D1F-2A2,Infinite lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1033
+Alien 3,1,00B-3D6-3BE,Infinite time--but timer still counts down,Official Code - GGCD1.txt,1
+Alien 3,2,002-B1C-3B7,Infinite energy,Official Code - GGCD1.txt,2
+Alien 3,3,00C-F2A-F79,Infinite lives,Official Code - GGCD1.txt,3
+Alien 3,4,008-0D7-3BE,Infinite ammo for grenade launcher on pickup,Official Code - GGCD1.txt,4
+Alien 3,5,002-6E6-19E,Infinite ammo for flame thrower on pickup,Official Code - GGCD1.txt,5
+Alien 3,6,006-4A7-19E,Infinite ammo for machine gun on pickup,Official Code - GGCD1.txt,6
+Alien 3,7,058-BA8-E66,Start with 5 lives,Official Code - GGCD1.txt,7
+Alien 3,8,078-BA8-E66,Start with 7 lives,Official Code - GGCD1.txt,8
+Alien 3,9,098-BA8-E66,Start with 9 lives,Official Code - GGCD1.txt,9
+Alien Syndrome,1,010-75F-E66,Start with 1 life,Official Code - GGCD1.txt,10
+Alien Syndrome,2,050-75F-E66,Start with 5 lives,Official Code - GGCD1.txt,11
+Alien Syndrome,3,090-75F-E66,Start with 9 lives,Official Code - GGCD1.txt,12
+Alien Syndrome,4,058-39F-E66,Start with 500 sec.,Official Code - GGCD1.txt,13
+Alien Syndrome,5,098-39F-E66,Start with 900 sec.,Official Code - GGCD1.txt,14
+Arch Rivals,1,01C-ACF-F7A,1-minute quarters,Official Code - GGCD1.txt,15
+Arch Rivals,2,03C-ACF-F7A,3-minute quarters,Official Code - GGCD1.txt,16
+Arch Rivals,3,07C-ACF-F7A,7-minute quarters,Official Code - GGCD1.txt,17
+Arch Rivals,4,02E-2FE-E6E,Faster timer,Official Code - GGCD1.txt,18
+Arch Rivals,5,00E-2FE-E6E,Infinite time,Official Code - GGCD1.txt,19
+Arch Rivals,6,00F-7DE-3B7,Computer opponents can't score,Official Code - GGCD1.txt,20
+"Ariel, Disney's The Little Mermaid",1,006-109-19E,Infinite lives,Official Code - GGCD1.txt,21
+"Ariel, Disney's The Little Mermaid",2,AF5-AA9-19E,Collect 1 polyp to find exit,Official Code - GGCD1.txt,22
+"Ariel, Disney's The Little Mermaid",3,027-4AF-F7A,Start with 3 lives,Official Code - GGCD1.txt,23
+"Ariel, Disney's The Little Mermaid",4,077-4AF-F7A,Start with 8 lives,Official Code - GGCD1.txt,24
+"Ariel, Disney's The Little Mermaid",,*=Ignore counter,,Official Code - GGCD1.txt,25
+"Ariel, Disney's The Little Mermaid",5,097-4AF-F7A,*Start with 10 lives,Official Code - GGCD1.txt,26
+"Ariel, Disney's The Little Mermaid",6,197-4AF-F7A,*Start with 26 lives,Official Code - GGCD1.txt,27
+"Ariel, Disney's The Little Mermaid",7,327-4AF-F7A,*Start with 51 lives,Official Code - GGCD1.txt,28
+"Ariel, Disney's The Little Mermaid",8,627-4AF-F7A,*Start with 99 lives,Official Code - GGCD1.txt,29
+"Ariel, Disney's The Little Mermaid",9,005-039-E6E,Infinite keys,Official Code - GGCD1.txt,30
+Ax Battler--A Legend of Golden Axe,1,02C-0BF-F72,Start with 1 energy bar,Official Code - GGCD1.txt,31
+Ax Battler--A Legend of Golden Axe,2,04C-0BF-F72,Start with 2 energy bars,Official Code - GGCD1.txt,32
+Ax Battler--A Legend of Golden Axe,3,3E7-23B-80E,31 vases on pick-up (maximum),Official Code - GGCD1.txt,33
+Ax Battler--A Legend of Golden Axe,4,3A4-C1D-2A2,"Hotels, weapons, etc. cost nothing",Official Code - GGCD1.txt,34
+Ayrton Senna's Super Monaco GP II,1,21B-60B-2A2,"Can't lose or gain place--to overtake, turn off code, pass, turn on again",Official Code - GGCD1.txt,35
+Ayrton Senna's Super Monaco GP II,2,00B-3DF-3B7,Infinite time,Official Code - GGCD1.txt,36
+Bartman Meets Radioactive Man,1,004-E5E-3B7,Infinite lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1034
+Bartman Meets Radioactive Man,2,000-02C-F7A,Infinite energy,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1035
+Bartman Meets Radioactive Man,3,011-56C-B3A,Start with mega-energy,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1036
+Bartman Meets Radioactive Man,4,00F-93F-3BE,One hit and you're invincible,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1037
+Bartman Meets Radioactive Man,5,010-20C-C4A,Don't flash after getting hit,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1038
+Bartman Meets Radioactive Man,6,190-20C-C4A,Longer flash after getting hit,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1039
+Bartman Meets Radioactive Man,7,C9F-C3D-082,Most enemies can't even touch you,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1040
+Bartman Meets Radioactive Man,8,002-36C-19E,Infinite laser bolts on pick-up,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1041
+Batman Returns,1,028-498-E66,Start with 2 lives,Official Code - GGCD1.txt,37
+Batman Returns,2,058-498-E66 ,Start with 5 lives,Official Code - GGCD1.txt,38
+Batman Returns,3,078-498-E66 ,Start with 7 lives,Official Code - GGCD1.txt,39
+Batman Returns,4,00A-57A-E6E,Infinite lives,Official Code - GGCD1.txt,40
+Batman Returns,5,004-758-19E ,Infinite special items,Official Code - GGCD1.txt,41
+Batman Returns,6,028-4E8-C42 ,Start with 2 energy units--1st life,Official Code - GGCD1.txt,42
+Batman Returns,7,068-4E8-C42 ,Start with 6 energy units--1st life,Official Code - GGCD1.txt,43
+Batman Returns,8,088-4E8-C42 ,Start with 8 energy units--1st life,Official Code - GGCD1.txt,44
+Batman Returns,9,02B-33A-C42 ,Start with 2 energy units--after 1st life,Official Code - GGCD1.txt,45
+Batman Returns,10,04B-33A-C42,Start with 4 energy units--after 1st life,Official Code - GGCD1.txt,46
+Batman Returns,11,08B-33A-C42,Start with 8 energy units--after 1st life,Official Code - GGCD1.txt,47
+Batman Returns,12,038-538-E6E,Start with 3 special items--1st life,Official Code - GGCD1.txt,48
+Batman Returns,13,03B-38A-E6E,Start with 3 special items--after 1st life,Official Code - GGCD1.txt,49
+Batman Returns,14,06B-38A-E6E,Start with 6 special items--after 1st life,Official Code - GGCD1.txt,50
+Batman Returns,15,09B-38A-E6E,Start with 9 special items--after 1st life,Official Code - GGCD1.txt,51
+Beavis & Butthead,1,01B-0BD-E66,Start with 1 life,Official Code - GGCD12.txt,1379
+Beavis & Butthead,2,05B-0BD-E66,Start with 5 lives,Official Code - GGCD12.txt,1380
+Beavis & Butthead,3,09B-0BD-E66,Start with 9 lives,Official Code - GGCD12.txt,1381
+Beavis & Butthead,4,00B-5ED-3B7,Almost infinite bulbs,Official Code - GGCD12.txt,1382
+Beavis & Butthead,5,01B-06D-E66,Start with 1 bulb,Official Code - GGCD12.txt,1383
+Beavis & Butthead,6,05B-06D-E66,Start with 5 bulbs,Official Code - GGCD12.txt,1384
+Beavis & Butthead,7,09B-06D-E66,Start with 9 bulbs,Official Code - GGCD12.txt,1385
+Beavis & Butthead,8,00B-0FD-5D4,Lose all your bulbs on the 1st level and move on to the next level,Official Code - GGCD12.txt,1386
+Bonkers: Wax Up!,1,009-87F-E66,Start with 1/4 energy,Official Code - GGCD16.txt,1542
+Bonkers: Wax Up!,2,019-87F-E66,Start with 1/2 energy,Official Code - GGCD16.txt,1543
+Bonkers: Wax Up!,3,213-6A5-6E2,Infinite energy,Official Code - GGCD16.txt,1544
+Bonkers: Wax Up!,4,3AB-286-2A2,Infinite lives,Official Code - GGCD16.txt,1545
+Bonkers: Wax Up!,5,00B-746-E66,Start with 1/4 energy after first life,Official Code - GGCD16.txt,1546
+Bonkers: Wax Up!,6,01B-746-E66,Start with 1/2 energy after first life,Official Code - GGCD16.txt,1547
+Bonkers: Wax Up!,7,000-045-197,Dont flash after getting hit,Official Code - GGCD16.txt,1548
+Bonkers: Wax Up!,8,990-045-197,Flash a lot longer after getting hit,Official Code - GGCD16.txt,1549
+Bonkers: Wax Up!,9,00F-4B7-3BE + 00F-4F7-3BA,1 hit and you become invincible,Official Code - GGCD16.txt,1550
+Bonkers: Wax Up!,10,C35-285-E61,Almost invincible,Official Code - GGCD16.txt,1551
+Bonkers: Wax Up!,11,009-8CF-E66,Start with 1 life,Official Code - GGCD16.txt,1552
+Bonkers: Wax Up!,12,049-8CF-E66,Start with 5 lives,Official Code - GGCD16.txt,1553
+Bonkers: Wax Up!,13,099-8CF-E66,Start with 10 lives,Official Code - GGCD16.txt,1554
+Bram Stoker's Dracula,5,002-4FA-E66,Start with 1 life,Official Code - GGCD2.txt,589
+Bram Stoker's Dracula,1,012-4FA-E66,Start with 2 lives,Official Code - GGCD2.txt,590
+Bram Stoker's Dracula,2,052-4FA-E66,Start with 6 lives,Official Code - GGCD2.txt,591
+Bram Stoker's Dracula,3,092-4FA-E66,Start with 10 lives,Official Code - GGCD2.txt,592
+Bram Stoker's Dracula,4,3A3-C8A-2A2,Infinite lives,Official Code - GGCD2.txt,593
+Bram Stoker's Dracula,5,012-4AA-F7A,Start with energy at 1--1st life,Official Code - GGCD2.txt,594
+Bram Stoker's Dracula,6,062-4AA-F7A,Start with energy at 6--1st life,Official Code - GGCD2.txt,595
+Bram Stoker's Dracula,7,092-4AA-F7A,Start with energy at 9--1st life,Official Code - GGCD2.txt,596
+Bram Stoker's Dracula,8,013-C0A-F7A,Start with energy at 1--after 1st life,Official Code - GGCD2.txt,597
+Bram Stoker's Dracula,9,063-C0A-F7A,Start with energy at 6--after 1st life,Official Code - GGCD2.txt,598
+Bram Stoker's Dracula,10,093-C0A-F7A,Start with energy at 9--after 1st life,Official Code - GGCD2.txt,599
+Bram Stoker's Dracula,11,3A4-39C-2A2,"After pick-up, keep weapons until end of level",Official Code - GGCD2.txt,600
+Bram Stoker's Dracula,12,001-7BB-19E,Infinite time,Official Code - GGCD2.txt,601
+Bram Stoker's Dracula,13,3A5-93C-2A2,Invincible (blinking),Official Code - GGCD2.txt,602
+Bram Stoker's Dracula,14,C39-95E-E61,Immunity from water and spikes,Official Code - GGCD2.txt,603
+Bubble Bobble,1,01F-0BE-F72,Start with 1 life,Official Code - GGCD14.txt,1430
+Bubble Bobble,2,09F-0BE-F72,Start with 9 lives,Official Code - GGCD14.txt,1431
+Bubble Bobble,3,0FF-0BE-F72,Start with 15 lives,Official Code - GGCD14.txt,1432
+Bubble Bobble,4,00F-12E-5D4,"Start with letters ""X"" and ""T""",Official Code - GGCD14.txt,1433
+Bubble Bobble,5,FF0-4B7-E6A + FF9-607-E6A,Almost invincible,Official Code - GGCD14.txt,1434
+Castle of Illusion starring Mickey Mouse,1,008-A6E-E6E,Infinite lives,Official Code - GGCD1.txt,52
+Castle of Illusion starring Mickey Mouse,2,003-64C-E69,Infinite energy,Official Code - GGCD1.txt,53
+Castle of Illusion starring Mickey Mouse,3,029-76F-E66,Start with 2 energy stars,Official Code - GGCD1.txt,54
+Castle of Illusion starring Mickey Mouse,4,049-76F-E66,Start with 4 energy stars,Official Code - GGCD1.txt,55
+Castle of Illusion starring Mickey Mouse,5,059-76F-E66,Start with 5 energy stars,Official Code - GGCD1.txt,56
+Castle of Illusion starring Mickey Mouse,6,036-C1E-F7A,Timer starts at 300,Official Code - GGCD1.txt,57
+Castle of Illusion starring Mickey Mouse,7,056-C1E-F7A,Timer starts at 500,Official Code - GGCD1.txt,58
+Castle of Illusion starring Mickey Mouse,8,066-C1E-F7A,Timer starts at 600,Official Code - GGCD1.txt,59
+Chakan,1,007-A4E-A28,Infinite health (skull),Official Code - GGCD1.txt,60
+Chakan,2,307-90E-D5A,Stay invincible longer after getting hit,Official Code - GGCD1.txt,61
+Chakan,3,807-90E-D5A,Stay invincible a lot longer after getting hit,Official Code - GGCD1.txt,62
+Chakan,4,002-6FE-19E,Stay invincible for almost forever after getting hit,Official Code - GGCD1.txt,63
+Chakan,,*=Don't combine with each other,,Official Code - GGCD1.txt,64
+Chakan,5,AA0-1D4-5DC,*Start with ice sword in inventory,Official Code - GGCD1.txt,65
+Chakan,6,AB0-1D4-5DC,*Start with fire sword,Official Code - GGCD1.txt,66
+Chakan,7,AC0-1D4-5DC,*Start with lightning sword,Official Code - GGCD1.txt,67
+Chakan,8,A60-184-6E8 + FF0-164-E6E,Start with eye,Official Code - GGCD1.txt,68
+Chakan,9,A80-184-6E8 + FF0-164-E6E,Start with sickle,Official Code - GGCD1.txt,69
+Chakan,10,A90-184-6E8 + FF0-164-E6E,Start with egg timer,Official Code - GGCD1.txt,70
+Chase H.Q. ,1,006-B4D-3BE,Infinite turbos,Official Code - GGCD1.txt,71
+Chase H.Q. ,2,324-74D-10A,Timer starts at 50 seconds --1st life,Official Code - GGCD1.txt,72
+Chase H.Q. ,3,464-74D-10A,Timer starts at 70 sceonds --1st life,Official Code - GGCD1.txt,73
+Chase H.Q. ,4,5A4-74D-10A,Timer starts at 90 seconds --1st life,Official Code - GGCD1.txt,74
+Chase H.Q. ,5,327-61C-10A,Timer starts at 50 seconds--after 1st life,Official Code - GGCD1.txt,75
+Chuck Rock,1,008-52E-E66,Start with 1 life,Official Code - GGCD1.txt,76
+Chuck Rock,2,018-52E-E66,Start with 2 lives,Official Code - GGCD1.txt,77
+Chuck Rock,3,058-52E-E66,Start with 6 lives,Official Code - GGCD1.txt,78
+Chuck Rock,4,88A-5CE-F72,Start with mega energy--1st life,Official Code - GGCD1.txt,79
+Chuck Rock,5,02E-EBF-E6A,Start on level 2,Official Code - GGCD1.txt,80
+Chuck Rock,6,03E-EBF-E6A,Start on level 3,Official Code - GGCD1.txt,81
+Chuck Rock,7,04E-EBF-E6A,Start on level 4,Official Code - GGCD1.txt,82
+Chuck Rock,8,3AB-0EE-19D,Start with lots of lives (ignore counter),Official Code - GGCD1.txt,83
+Cliffhanger,1,011-98E-E62,Start with 2 life,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1044
+Cliffhanger,2,041-98E-E62,Start with 5 lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1045
+Cliffhanger,3,091-98E-E62,Start with 10 lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1046
+Cliffhanger,4,012-73E-B39,Infinite lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1047
+Cliffhanger,5,011-A3E-A2A,Start with 1 energy bar,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1048
+Cliffhanger,6,051-A3E-A2A,Start with 5 energy bars,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1049
+Cliffhanger,7,018-9AE-B39,One hit kills,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1050
+Cliffhanger,8,011-80E-E66,1 continue,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1051
+Cliffhanger,9,051-80E-E66,5 continues,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1052
+Cliffhanger,10,091-80E-E66,9 continues,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1053
+Cliffhanger,11,C90-C6A-E69,Invincibility,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1054
+Cliffhanger,12,031-85E-E6A,Start on level 2,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1055
+Cliffhanger,13,061-85E-E6A,Start on level 3,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1056
+Cliffhanger,14,081-85E-E6A,Start on level 4,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1057
+Clutch Hitter,1,005-109-19A,Strikes aren't called (except fouls),Official Code - GGCD1.txt,84
+Clutch Hitter,2,025-129-E66,2 strikes and you're out,Official Code - GGCD1.txt,85
+Clutch Hitter,3,045-129-E66,4 strikes and you're out,Official Code - GGCD1.txt,86
+Clutch Hitter,4,015-3B9-F7A,1 ball and you walk,Official Code - GGCD1.txt,87
+Clutch Hitter,5,025-3B9-F7A,2 balls and you walk,Official Code - GGCD1.txt,88
+Clutch Hitter,6,005-399-19A,Balls aren't counted,Official Code - GGCD1.txt,89
+Clutch Hitter,7,008-E99-19A + 008-F89-19A,No scoring--turn codes off to score,Official Code - GGCD1.txt,90
+Crystal Warriors,1,96D-335-6EA,Iris starts with 50 HP,Official Code - GGCD1.txt,91
+Crystal Warriors,2,96D-345-802,Iris starts with 50 MP,Official Code - GGCD1.txt,92
+Crystal Warriors,3,96D-355-A22,Iris starts with 50 AP,Official Code - GGCD1.txt,93
+Crystal Warriors,4,96D-365-C42,Iris starts with 50 DP,Official Code - GGCD1.txt,94
+Crystal Warriors,5,96D-375-C42,Iris starts with 50 LK,Official Code - GGCD1.txt,95
+Deep Duck Trouble Starring Donald Duck,1,016-DBF-E66,Start with 1 life,Official Code - GGCD12.txt,1387
+Deep Duck Trouble Starring Donald Duck,2,0A6-DBF-E66,Start with 10 lives,Official Code - GGCD12.txt,1388
+Deep Duck Trouble Starring Donald Duck,3,0F6-DBF-E66,Start with 15 lives,Official Code - GGCD12.txt,1389
+Deep Duck Trouble Starring Donald Duck,4,016-E8F-E66,Start with 1 gem,Official Code - GGCD12.txt,1390
+Deep Duck Trouble Starring Donald Duck,5,0A6-E8F-E66,Start with 10 gems,Official Code - GGCD12.txt,1391
+Deep Duck Trouble Starring Donald Duck,6,0F6-E8F-E66,Start with 15 gems,Official Code - GGCD12.txt,1392
+Deep Duck Trouble Starring Donald Duck,7,886-E4F-5D4,Start on Inlet,Official Code - GGCD12.txt,1393
+Deep Duck Trouble Starring Donald Duck,8,3A9-319-2A2,Infinite lives,Official Code - GGCD12.txt,1394
+Deep Duck Trouble Starring Donald Duck,9,014-35E-E66,Get 1 star after you lose a life,Official Code - GGCD12.txt,1395
+Deep Duck Trouble Starring Donald Duck,10,0A4-35E-E66,Get 10 stars after you lose a life,Official Code - GGCD12.txt,1396
+Deep Duck Trouble Starring Donald Duck,11,0F4-35E-E66,Get 15 stars after you lose a life,Official Code - GGCD12.txt,1397
+Deep Duck Trouble Starring Donald Duck,12,3A0-5D5-2A2,Almost infinite stars,Official Code - GGCD12.txt,1398
+Deep Duck Trouble Starring Donald Duck,13,C90-C65-082,Almost invincible,Official Code - GGCD12.txt,1399
+Desert Speed Trap,15,212-39B-19D,Infinite hits ,Official Code - GGCD2.txt,604
+Desert Speed Trap,1,014-74E-E66,2 energy points allowed for 1st life only ,Official Code - GGCD2.txt,605
+Desert Speed Trap,2,024-74E-E66,3 energy points allowed for 1st life only ,Official Code - GGCD2.txt,606
+Desert Speed Trap,3,004-74E-E66,1 energy point allowed for 1st life only ,Official Code - GGCD2.txt,607
+Desert Speed Trap,4,094-74E-E66,10 energy points allowed for 1st life only--MAY MESS UP ENERGY BAR,Official Code - GGCD2.txt,608
+Desert Speed Trap,5,015-3AF-E62,Start with 2 lives,Official Code - GGCD2.txt,609
+Desert Speed Trap,6,065-3AF-E62,Start with 6 lives,Official Code - GGCD2.txt,610
+Desert Speed Trap,7,095-3AF-E62,Start with 9 lives,Official Code - GGCD2.txt,611
+Desert Speed Trap,8,001-59B-A2A,Infinite timer,Official Code - GGCD2.txt,612
+Desert Speed Trap,9,015-0FF-E66,Start with 1 credit,Official Code - GGCD2.txt,613
+Desert Speed Trap,10,055-0FF-E66,Start with 5 credits,Official Code - GGCD2.txt,614
+Desert Speed Trap,11,075-0FF-E66,Start with 7 credits,Official Code - GGCD2.txt,615
+Desert Speed Trap,12,095-0FF-E66,Start with 9 credits,Official Code - GGCD2.txt,616
+Desert Speed Trap,13,C31-A8B-E61,Enemies can't hurt,Official Code - GGCD2.txt,617
+Desert Speed Trap,14,035-0FF-E66 + 325-13F-082,Start on level 3,Official Code - GGCD2.txt,618
+Desert Speed Trap,15,065-0FF-E66 + 325-13F-082,Start on level 6,Official Code - GGCD2.txt,619
+Desert Speed Trap,16,095-0FF-E66 + 325-13F-082,Start on level 9,Official Code - GGCD2.txt,620
+Desert Speed Trap,17,0E5-0FF-E66 + 325-13F-082,Start on last level,Official Code - GGCD2.txt,621
+Desert Strike,1,01E-03E-C4A,Start with 1 hellfire,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1063
+Desert Strike,2,05E-03E-C4A,Start with 5 hellfires,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1064
+Desert Strike,3,09E-03E-C4A,Start with 9 hellfires,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1065
+Desert Strike,4,01E-08E-3BA,Start with 1 hydras,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1066
+Desert Strike,5,56E-08E-3BA,Start with 56 hydras,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1067
+Desert Strike,6,99E-0DE-3BA,Start with 99 hydras,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1068
+Desert Strike,7,01E-0DE-A2E,Start with 178 guns,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1069
+Desert Strike,8,06E-0DE-A2E,Start with 678 guns,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1070
+Desert Strike,9,99E-0DE-A2E,"Start with 9,978 guns","Official Code - GGCD5 (VOL. 1, NO. 2).txt",1071
+Desert Strike,10,01E-12E-08B + 01E-1CE-E6E,100 fuel load,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1072
+Desert Strike,11,55E-12E-08B + 55E-1CE-E6E,"5,500 fuel load","Official Code - GGCD5 (VOL. 1, NO. 2).txt",1073
+Desert Strike,12,99E-12E-1CE + 99E-1CE-E6E,"9,900 fuel load","Official Code - GGCD5 (VOL. 1, NO. 2).txt",1074
+Desert Strike,13,03E-2BE-F72,Start with 300 armor,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1075
+Desert Strike,14,06E-2BE-F72,Start with 600 armor,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1076
+Desert Strike,15,99E-2BE-F72,Start with 9900 armor,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1077
+Desert Strike,16,002-E97-E6E,Infinite fuel,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1078
+Desert Strike,17,3A9-807-2A2,Infinite armor,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1079
+Desert Strike,18,005-B07-E6E,Infinite hydras,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1080
+Desert Strike,19,004-CF7-E6E,Infinite hellfires,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1081
+Desert Strike,20,006-FC7-E6E,Infinite guns,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1082
+Devilish,,Normal game codes:,,Official Code - GGCD1.txt,96
+Devilish,1,00C-EDA-19E,Infinite balls,Official Code - GGCD1.txt,97
+Devilish,2,3A3-A6E-2A2,Infinite credits,Official Code - GGCD1.txt,98
+Devilish,3,011-76D-E62,Start with 2 balls,Official Code - GGCD1.txt,99
+Devilish,4,061-76D-E62,Start with 7 balls,Official Code - GGCD1.txt,100
+Devilish,5,081-76D-E62,Start with 9 balls,Official Code - GGCD1.txt,101
+Devilish,6,012-9AE-E62,Start with 2 credits,Official Code - GGCD1.txt,102
+Devilish,7,052-9AE-E62,Start with 6 credits,Official Code - GGCD1.txt,103
+Devilish,8,072-9AE-E62,Start with 8 credits,Official Code - GGCD1.txt,104
+Devilish,9,022-E2E-E6E,Start on Stage 2 Under Passage,Official Code - GGCD1.txt,105
+Devilish,10,032-E2E-E6E,Start on Stage 3 Waterfalls,Official Code - GGCD1.txt,106
+Devilish,11,042-E2E-E6E,Start on Stage 4 Old Castle,Official Code - GGCD1.txt,107
+Devilish,12,052-E2E-E6E,Start on Stage 5 Prairie,Official Code - GGCD1.txt,108
+Devilish,13,062-E2E-E6E,Start on Stage 6 Volcano,Official Code - GGCD1.txt,109
+Devilish,14,072-E2E-E6E,Start on Stage 7 World of Ice,Official Code - GGCD1.txt,110
+Devilish,15,082-E2E-E6E,Start on Stage 8 Evil Temple,Official Code - GGCD1.txt,111
+DISNEY'S ALADDIN,1,012-9AD-F72,Start with 1/2 jewel in life gauge,Official Code - GGCD6.txt,1236
+DISNEY'S ALADDIN,2,032-9AD-F72,Start with 1/2 maximum jewels in life gauge,Official Code - GGCD6.txt,1237
+DISNEY'S ALADDIN,3,3AE-DDC-2A2,Don't take damage from most hits,Official Code - GGCD6.txt,1238
+DISNEY'S ALADDIN,4,00F-46C-803,No blinking after being hit,Official Code - GGCD6.txt,1239
+DISNEY'S ALADDIN,5,CCF-46C-803,Longer blinking after being hit,Official Code - GGCD6.txt,1240
+DISNEY'S ALADDIN,6,3A2-ACE-2A2,Infinite blinking after being hit,Official Code - GGCD6.txt,1241
+DISNEY'S ALADDIN,7,C92-01D-082,Invisibility,Official Code - GGCD6.txt,1242
+DISNEY'S ALADDIN,8,002-0BD-E6E,Temporary invisibility when you hit something,Official Code - GGCD6.txt,1243
+DISNEY'S ALADDIN,9,3EB-8DB-2A2 + 01B-8EB-F7A + 00B-8FB-E6D,Special options screen,Official Code - GGCD6.txt,1244
+Disney's TaleSpin,1,013-43F-E66,Start with 2 lives,Official Code - GGCD1.txt,112
+Disney's TaleSpin,2,063-43F-E66,Start with 7 lives,Official Code - GGCD1.txt,113
+Disney's TaleSpin,3,093-43F-E66,Start with 10 lives,Official Code - GGCD1.txt,114
+Disney's TaleSpin,4,013-48F-E66,Start with 1 credits,Official Code - GGCD1.txt,115
+Disney's TaleSpin,5,063-48F-E66,Start with 6 credits,Official Code - GGCD1.txt,116
+Disney's TaleSpin,6,093-48F-E66,Start with 9 credits,Official Code - GGCD1.txt,117
+Disney's TaleSpin,7,3AB-B5D-2A2,Infinite lives,Official Code - GGCD1.txt,118
+Disney's TaleSpin,8,3A6-3CB-2A2,Infinite continues,Official Code - GGCD1.txt,119
+Disney's The Jungle Book,1,19C 26E 7FB,Very little flash time after getting hit,Official Code - GGCD17.txt,1578
+Disney's The Jungle Book,2,99C 26E 7FB,More flash time after getting hit,Official Code - GGCD17.txt,1579
+Disney's The Jungle Book,3,3AC 20E 2A2,Infinite energy,Official Code - GGCD17.txt,1580
+Disney's The Jungle Book,4,AFC 1FE 19E,1 hit and you die,Official Code - GGCD17.txt,1581
+Disney's The Jungle Book,5,C3B 7DE E61,Invincible,Official Code - GGCD17.txt,1582
+Double Dragon,18,012-19F-E66,Start with 2 lives,Official Code - GGCD2.txt,622
+Double Dragon,1,052-19F-E66,Start with 6 lives ,Official Code - GGCD2.txt,623
+Double Dragon,2,092-19F-E66,Start with 10 lives ,Official Code - GGCD2.txt,624
+Double Dragon,3,012-21F-F76,Start with 1 energy bar for first knockdown only,Official Code - GGCD2.txt,625
+Double Dragon,4,022-21F-F76,Start with two energy bars for first knockdown only,Official Code - GGCD2.txt,626
+Double Dragon,5,00F-03F-3BF,Start with lots of energy ,Official Code - GGCD2.txt,627
+Double Dragon,6,00C-B6F-3BE,Pick up gun and keep till end of level ,Official Code - GGCD2.txt,628
+Double Dragon,7,013-D9C-DD6,Gun has 1 bullet ,Official Code - GGCD2.txt,629
+Double Dragon,8,053-D9C-DD6,Gun has 5 bullets ,Official Code - GGCD2.txt,630
+Double Dragon,9,093-D9C-DD6,Gun has 9 bullets ,Official Code - GGCD2.txt,631
+Double Dragon,10,017-EAD-E66,2 lives after 1st continue ,Official Code - GGCD2.txt,632
+Double Dragon,11,057-EAD-E66,6 lives after 1st continue ,Official Code - GGCD2.txt,633
+Double Dragon,12,097-EAD-E66,10 lives after 1st continue ,Official Code - GGCD2.txt,634
+Double Dragon,13,007-E5D-3B7,Infinite continues ,Official Code - GGCD2.txt,635
+Double Dragon,14,014-37F-F76,Start with 1 energy bar after 1st LIFE ,Official Code - GGCD2.txt,636
+Double Dragon,15,024-37F-F76,Start with 1.5 energy bars after 1st LIFE ,Official Code - GGCD2.txt,637
+Double Dragon,16,034-37F-F76,Start with 2 energy bars after 1st LIFE ,Official Code - GGCD2.txt,638
+Double Dragon,17,AFD-0AE-F70,Nasties warp all over the place--very hard to kill ,Official Code - GGCD2.txt,639
+Dragon Crystal,1,214-EBA-6E2,Infinite hit points,Official Code - GGCD1.txt,120
+Dragon Crystal,2,4BF-FAF-7FB,Start with 75 hit points,Official Code - GGCD1.txt,121
+Dragon Crystal,3,96F-FAF-7FB,Start with 150 hit points,Official Code - GGCD1.txt,122
+Dragon Crystal,4,7DF-FAF-7FB,Start with 125 hit points,Official Code - GGCD1.txt,123
+Dragon Crystal,5,50F-F5F-2AA,Start with 50 food,Official Code - GGCD1.txt,124
+Dragon Crystal,6,75F-F5F-2AA,Start with 75 food,Official Code - GGCD1.txt,125
+Dragon Crystal,7,99F-F5F-2AA,Start with maximum food (99),Official Code - GGCD1.txt,126
+Dragon Crystal,8,3AE-FBD-2A2,Infinite food,Official Code - GGCD1.txt,127
+Dragon Crystal,,Best to avoid enemies if you start at high levels until you are better equipped.,,Official Code - GGCD1.txt,128
+Dragon Crystal,9,02F-EDF-E6E,Start on floor 2 as ranger,Official Code - GGCD1.txt,129
+Dragon Crystal,10,03F-EDF-E6E,Start on floor 3 as soldier,Official Code - GGCD1.txt,130
+Dragon Crystal,11,04F-EDF-E6E,Start on floor 4 as warrior,Official Code - GGCD1.txt,131
+Dragon Crystal,12,05F-EDF-E6E,Start on floor 5 as fighter,Official Code - GGCD1.txt,132
+Dragon Crystal,13,06F-EDF-E6E,Start on floor 6 as swordsman,Official Code - GGCD1.txt,133
+Dragon Crystal,14,07F-EDF-E6E,Start on floor 7 as veteran,Official Code - GGCD1.txt,134
+Dragon Crystal,15,08F-EDF-E6E,Start on floor 8 as knight,Official Code - GGCD1.txt,135
+Dragon Crystal,16,09F-EDF-E6E,Start on floor 9 as champion,Official Code - GGCD1.txt,136
+Dragon Crystal,17,0AF-EDF-E6E,Start on floor 10 as hero,Official Code - GGCD1.txt,137
+Dragon Crystal,18,0BF-EDF-E6E,Start on floor 11 as master,Official Code - GGCD1.txt,138
+Dragon Crystal,19,0CF-EDF-E6E,Start on floor 12 as paladin,Official Code - GGCD1.txt,139
+Dragon Crystal,20,0DF-EDF-E6E,Start on floor 13 as warlord,Official Code - GGCD1.txt,140
+Dragon Crystal,21,0EF-EDF-E6E,Start on floor 14 as dragon lord,Official Code - GGCD1.txt,141
+Dragon Crystal,22,0FF-EDF-E6E,Start on floor 15 as avatar,Official Code - GGCD1.txt,142
+Dragon Crystal,23,10F-EDF-E6E,Start on floor 16 as master lord,Official Code - GGCD1.txt,143
+Dynamite Headdy,1,014-FAF-E66,Start with 1 lives,Official Code - GGCD10.txt,1309
+Dynamite Headdy,2,054-FAF-E66,Start with 5 lives,Official Code - GGCD10.txt,1310
+Dynamite Headdy,3,094-FAF-E66,Start with 9 lives,Official Code - GGCD10.txt,1311
+Dynamite Headdy,4,008-E2D-E69,Infinite lives,Official Code - GGCD10.txt,1312
+Dynamite Headdy,5,004-56C-D5A,Infinite energy,Official Code - GGCD10.txt,1313
+Dynamite Headdy,6,344-F3F-3BE + 344-EFF-3BE,Start on Toys in the Hood,Official Code - GGCD10.txt,1314
+Earthworm Jim,1,194-D86-7FB,Start with 1/4 energy,Official Code - GGCD17.txt,1595
+Earthworm Jim,2,324-D86-7FB,Start with 1/2 energy,Official Code - GGCD17.txt,1596
+Earthworm Jim,3,4B4-D86-7FB,Start with 3/4 energy,Official Code - GGCD17.txt,1597
+Earthworm Jim,4,B84-DD6-4C9 + 8B4-E26-E66,Start with 3000 bullets,Official Code - GGCD17.txt,1598
+Earthworm Jim,5,AO4-DD6-4C9 + 8C4-E26-E66,Start with 4000 bullets,Official Code - GGCD17.txt,1599
+Earthworm Jim,6,884-DD6-4C9 + 904-E26-E66,Start with 5000 bullets,Official Code - GGCD17.txt,1600
+Earthworm Jim,7,704-DD6-4C9 + 944-E26-E66,Start with 6000 bullets,Official Code - GGCD17.txt,1601
+Earthworm Jim,8,FF4-DD6-4C9 + FF4-E26-E66,Start with MEGA ammo,Official Code - GGCD17.txt,1602
+Earthworm Jim,9,3A4-0EC-2A2,Infinite lives,Official Code - GGCD17.txt,1603
+Earthworm Jim,10,3A3-B4C-2A2,Infinite energy,Official Code - GGCD17.txt,1604
+Earthworm Jim,11,3A5-53A-2A2,Infinite gun,Official Code - GGCD17.txt,1605
+Earthworm Jim,12,885-7C9-A2A,Flash longer when hit on the ground,Official Code - GGCD17.txt,1606
+Earthworm Jim,14,3AE-01F-2A2,One hit and youÕre invincible,Official Code - GGCD17.txt,1608
+Earthworm Jim,15,18D-EAF-6EA,Invincible,Official Code - GGCD17.txt,1609
+Earthworm Jim,16,002-5CC-C49,Gun pick-ups worth nothing,Official Code - GGCD17.txt,1610
+Earthworm Jim,17,012-5CC-C49,Gun pick-ups worth 1,Official Code - GGCD17.txt,1611
+Earthworm Jim,18,192-5CC-C49,Gun pick-ups worth 25,Official Code - GGCD17.txt,1612
+Earthworm Jim,19,322-5CC-C49,Gun pick-ups worth 50,Official Code - GGCD17.txt,1613
+Earthworm Jim,20,FF2-5CC-C49,Gun pick-ups worth a lot,Official Code - GGCD17.txt,1614
+Earthworm Jim,21,002-3BC-B3A,Energy pick-ups worth nothing,Official Code - GGCD17.txt,1615
+Earthworm Jim,22,012-3BC-B3A,Energy pick-ups worth 1,Official Code - GGCD17.txt,1616
+Earthworm Jim,23,192-3BC-B3A,Energy pick-ups worth 25,Official Code - GGCD17.txt,1617
+Earthworm Jim,24,322-3BC-B3A,Energy pick-ups worth 50,Official Code - GGCD17.txt,1618
+Earthworm Jim,25,FF2-3BC-B3A,Energy pick-ups worth a lot,Official Code - GGCD17.txt,1619
+Ecco 2: The Tides of Time,1,014-20B-C4A + 884-22B-2A2 + 004-27B-3BA,Start on Vents of Medusa,Official Code - GGCD16.txt,1515
+Ecco 2: The Tides of Time,2,024-20B-C4A + 884-22B-2A2 + 004-27B-3BA,Start on Maze of Stone,Official Code - GGCD16.txt,1516
+Ecco 2: The Tides of Time,3,034-20B-C4A + 884-22B-2A2 + 004-27B-3BA,Start on Sea of Darkness,Official Code - GGCD16.txt,1517
+Ecco 2: The Tides of Time,4,044-20B-C4A + 884-22B-2A2 + 004-27B-3BA,Start on DDD Swimming,Official Code - GGCD16.txt,1518
+Ecco 2: The Tides of Time,5,054-20B-C4A + 884-22B-2A2 + 004-27B-3BA,Start on Skyway,Official Code - GGCD16.txt,1519
+Ecco 2: The Tides of Time,6,064-20B-C4A + 884-22B-2A2 + 004-27B-3BA,Start on Tube of Medusa,Official Code - GGCD16.txt,1520
+Ecco 2: The Tides of Time,7,074-20B-C4A + 884-22B-2A2 + 004-27B-3BA,Start on DDD Swimming #2,Official Code - GGCD16.txt,1521
+Ecco 2: The Tides of Time,8,084-20B-C4A + 884-22B-2A2 + 004-27B-3BA,Start on Getaway,Official Code - GGCD16.txt,1522
+Ecco 2: The Tides of Time,9,094-20B-C4A + 884-22B-2A2 + 004-27B-3BA,Start on Asterite Cave,Official Code - GGCD16.txt,1523
+Ecco 2: The Tides of Time,10,0A4-20B-C4A + 884-22B-2A2 + 004-27B-3BA,Start on The Eye,Official Code - GGCD16.txt,1524
+Ecco 2: The Tides of Time,11,0B4-20B-C4A + 884-22B-2A2 + 004-27B-3BA,Start on Deep Ridge,Official Code - GGCD16.txt,1525
+Ecco 2: The Tides of Time,12,0C4-20B-C4A + 884-22B-2A2 + 004-27B-3BA,Start on Sea of Birds,Official Code - GGCD16.txt,1526
+Ecco 2: The Tides of Time,13,0D4-20B-C4A + 884-22B-2A2 + 004-27B-3BA,Start on Convergence,Official Code - GGCD16.txt,1527
+Ecco 2: The Tides of Time,14,0E4-20B-C4A + 884-22B-2A2 + 004-27B-3BA,Start on DDD Swimming #3,Official Code - GGCD16.txt,1528
+Ecco 2: The Tides of Time,15,0F4-20B-C4A + 884-22B-2A2 + 004-27B-3BA,Start on Vortex Future,Official Code - GGCD16.txt,1529
+Ecco 2: The Tides of Time,16,104-20B-C4A + 884-22B-2A2 + 004-27B-3BA,Start on Globe Holder,Official Code - GGCD16.txt,1530
+Ecco 2: The Tides of Time,17,114-20B-C4A + 884-22B-2A2 + 004-27B-3BA,Start on Convergence #2,Official Code - GGCD16.txt,1531
+Ecco 2: The Tides of Time,18,124-20B-C4A + 884-22B-2A2 + 004-27B-3BA,Start on DDD Swimming #4,Official Code - GGCD16.txt,1532
+Ecco 2: The Tides of Time,19,134-20B-C4A + 884-22B-2A2 + 004-27B-3BA,Start on New Machine,Official Code - GGCD16.txt,1533
+Ecco 2: The Tides of Time,20,144-20B-C4A + 884-22B-2A2 + 004-27B-3BA,Start on Vortex Queen,Official Code - GGCD16.txt,1534
+Ecco 2: The Tides of Time,21,154-20B-C4A + 884-22B-2A2 + 004-27B-3BA,Start on Semi-ending Part 1,Official Code - GGCD16.txt,1535
+Ecco 2: The Tides of Time,22,164-20B-C4A + 884-22B-2A2 + 004-27B-3BA,Start on Semi-ending Part 2,Official Code - GGCD16.txt,1536
+Ecco 2: The Tides of Time,23,174-20B-C4A + 884-22B-2A2 + 004-27B-3BA,Start on Atlantis,Official Code - GGCD16.txt,1537
+Ecco 2: The Tides of Time,24,366-8C6-5DD + 3E6-8E6-D56,Infinite air,Official Code - GGCD16.txt,1538
+Ecco 2: The Tides of Time,25,109-CF6-6E6,Jumping out of the water sets your energy to half,Official Code - GGCD16.txt,1539
+Ecco 2: The Tides of Time,26,21D-3C7-6E2,Infinite energy,Official Code - GGCD16.txt,1540
+Ecco 2: The Tides of Time,27,006-9FB-C4A,Most fish dont give you energy,Official Code - GGCD16.txt,1541
+Ecco the Dolphin,18,3E3-4B8-C46 ,Infinite air,Official Code - GGCD2.txt,640
+Ecco the Dolphin,1,050-AC8-6E6 ,Less air when you jump out of the water,Official Code - GGCD2.txt,641
+Ecco the Dolphin,2,003-4B8-C46 ,Air goes down slower,Official Code - GGCD2.txt,642
+Ecco the Dolphin,3,21C-D49-6E2 ,Infinite energy,Official Code - GGCD2.txt,643
+Ecco the Dolphin,4,05C-D29-199 ,Take less damage,Official Code - GGCD2.txt,644
+Ecco the Dolphin,5,FFC-D29-199,Protection from some hazards,Official Code - GGCD2.txt,645
+Ecco the Dolphin,6,053-EAA-6E6 + 053-E4A-6E6 ,Shells replenish less energy and less air,Official Code - GGCD2.txt,646
+Ecco the Dolphin,7,C93-E2A-6EE ,No replenishment of air energy by anything--you can still get air by jumping out of water,Official Code - GGCD2.txt,647
+Ecco the Dolphin,8,217-AD8-6E2 ,No extra air when jumping out of the water--use this code with code air goes down slower for a level,Official Code - GGCD2.txt,648
+Factory Panic,1,00C-12F-3BE,Infinite timer,Official Code - GGCD1.txt,144
+Factory Panic,2,029-72F-E66,Start with 2 lives,Official Code - GGCD1.txt,145
+Factory Panic,3,059-72F-E66,Start with 5 lives,Official Code - GGCD1.txt,146
+Factory Panic,4,089-72F-E66,Start with 8 lives,Official Code - GGCD1.txt,147
+Factory Panic,5,000-6AC-E65,Infinite lives,Official Code - GGCD1.txt,148
+Factory Panic,6,029-77F-F72,Start with 1 continue,Official Code - GGCD1.txt,149
+Factory Panic,7,049-77F-F72,Start with 3 continues,Official Code - GGCD1.txt,150
+Factory Panic,8,099-77F-F72,Start with 8 continues,Official Code - GGCD1.txt,151
+Factory Panic,9,006-C1F-E65,Infinite continues,Official Code - GGCD1.txt,152
+Fantasy Zone,10,010-A3F-E62,Start with 2 lives,Official Code - GGCD1.txt,153
+Fantasy Zone,11,040-A3F-E62,Start with 5 lives,Official Code - GGCD1.txt,154
+Fantasy Zone,12,070-A3F-E62,Start with 8 lives,Official Code - GGCD1.txt,155
+Fantasy Zone,13,3A1-8EF-2A2,Infinite lives,Official Code - GGCD1.txt,156
+Fantasy Zone,14,3E0-E5F-2A2 + 010-E6F-D5E + 000-C7F-E69,Start on level 2,Official Code - GGCD1.txt,157
+Fantasy Zone,15,3E0-E5F-2A2 + 020-E6F-D5E + 000-C7F-E69,Start on level 3,Official Code - GGCD1.txt,158
+Fantasy Zone,16,3E0-E5F-2A2 + 030-E6F-D5E + 000-C7F-E69,Start on level 4,Official Code - GGCD1.txt,159
+Fantasy Zone,17,3E0-E5F-2A2 + 040-E6F-D5E + 000-C7F-E69,Start on level 5,Official Code - GGCD1.txt,160
+Fantasy Zone,18,3E0-E5F-2A2 + 050-E6F-D5E + 000-C7F-E69,Start on level 6,Official Code - GGCD1.txt,161
+Fantasy Zone,19,3E0-E5F-2A2 + 060-E6F-D5E + 000-C7F-E69,Start on level 7,Official Code - GGCD1.txt,162
+Fatal Fury Special,1,03C-38B-E6E,Faster timer,Official Code - GGCD13.txt,1400
+Fatal Fury Special,2,00C-38B-E6E,Infinite time,Official Code - GGCD13.txt,1401
+Fatal Fury Special,3,21C-75E-91D + 10C-71E-195 + 04C-73C-3B8,Start rounds with 10 seconds,Official Code - GGCD13.txt,1402
+Fatal Fury Special,4,21C-75E-91D + 20C-71E-195 + 04C-73C-3B8,Start rounds with 20 seconds,Official Code - GGCD13.txt,1403
+Fatal Fury Special,5,21C-75E-91D + 30C-71E-195 + 04C-73C-3B8,Start rounds with 30 seconds,Official Code - GGCD13.txt,1404
+Fatal Fury Special,6,21C-75E-91D + 40C-71E-195 + 04C-73C-3B8,Start rounds with 40 seconds,Official Code - GGCD13.txt,1405
+Fatal Fury Special,7,21C-75E-91D + 50C-71E-195 + 04C-73C-3B8,Start rounds with 50 seconds,Official Code - GGCD13.txt,1406
+Fatal Fury Special,8,12C-24E-E6B,Both players start with 1/4 energy,Official Code - GGCD13.txt,1407
+Fatal Fury Special,9,20C-24E-E6B,Both players start with 1/2 energy,Official Code - GGCD13.txt,1408
+Fatal Fury Special,10,2DC-24E-E6B,Both players start with 3/4 energy,Official Code - GGCD13.txt,1409
+Fatal Fury Special,11,118-109-E61,Only take damage from some projectile special moves,Official Code - GGCD13.txt,1410
+Fatal Fury Special,12,003-814-D5A,Terry's throw does very little damage,Official Code - GGCD13.txt,1411
+Fatal Fury Special,13,773-814-D5A,Terry's throw kills,Official Code - GGCD13.txt,1412
+Fatal Fury Special,14,005-59D-F7A,Terry's standing punch doesn't do damage,Official Code - GGCD13.txt,1413
+Fatal Fury Special,15,775-59D-F7A,Terry's standing puch kills,Official Code - GGCD13.txt,1414
+Fatal Fury Special,16,005-61D-C4A,Terry's standing kick doesn't do damage,Official Code - GGCD13.txt,1415
+Fatal Fury Special,17,775-61D-C4A,Terry's standing kick kills,Official Code - GGCD13.txt,1416
+Fatal Fury Special,18,005-71D-F72,Terry's crouching kick doesn't do damage,Official Code - GGCD13.txt,1417
+Fatal Fury Special,19,775-71D-F72,Terry's crouching kick kills,Official Code - GGCD13.txt,1418
+George Foreman's K.O. Boxing,1,21C-04C-2A2,Infinite superpunches,Official Code - GGCD1.txt,168
+George Foreman's K.O. Boxing,2,602-CEE-E68,Both boxers start with 3/4 energy,Official Code - GGCD1.txt,169
+George Foreman's K.O. Boxing,3,402-CEE-E68,Both boxers start with 1/2 energy,Official Code - GGCD1.txt,170
+George Foreman's K.O. Boxing,4,202-CEE-E68,Both boxers start with 1/4 energy,Official Code - GGCD1.txt,171
+George Foreman's K.O. Boxing,5,000-BED-19E,Infinite ring timer,Official Code - GGCD1.txt,172
+George Foreman's K.O. Boxing,6,02F-59E-E66,2-min. rounds,Official Code - GGCD1.txt,173
+George Foreman's K.O. Boxing,7,04F-59E-E66,4-min. rounds,Official Code - GGCD1.txt,174
+George Foreman's K.O. Boxing,8,06F-59E-E66,6-min. rounds,Official Code - GGCD1.txt,175
+Global Gladiators,1,219-82B-6E2,Infinite timer,Official Code - GGCD1.txt,176
+Global Gladiators,2,0A2-88B-F76,Start with 10 min.,Official Code - GGCD1.txt,177
+Global Gladiators,3,062-88B-F76,Start with 6 min.,Official Code - GGCD1.txt,178
+Global Gladiators,4,042-88B-F76,Start with 4 min.,Official Code - GGCD1.txt,179
+Global Gladiators,5,022-88B-F76,Start with 2 min.,Official Code - GGCD1.txt,180
+Global Gladiators,6,05F-ACD-E6E,Each M logo counts as 5,Official Code - GGCD1.txt,181
+Global Gladiators,7,03F-ACD-E6E,Each M logo counts as 3,Official Code - GGCD1.txt,182
+Global Gladiators,8,012-51E-F7E,Start with 1 life,Official Code - GGCD1.txt,183
+Global Gladiators,9,052-51E-F7E,Start with 5 lives,Official Code - GGCD1.txt,184
+Global Gladiators,10,0A2-51E-F7E,Start 10 lives,Official Code - GGCD1.txt,185
+Global Gladiators,11,002-08E-A29,Infinite lives,Official Code - GGCD1.txt,186
+G-LOC Air Battle Game ,1,002-E5E-E6E,Infinite missiles,Official Code - GGCD1.txt,163
+G-LOC Air Battle Game ,2,050-16E-EFE,Each enemy target counts as 5,Official Code - GGCD1.txt,164
+G-LOC Air Battle Game ,3,080-16E-EFE,Each enemy target counts as 8,Official Code - GGCD1.txt,165
+G-LOC Air Battle Game ,4,0A0-16E-EFE,Each enemy target counts as 10,Official Code - GGCD1.txt,166
+G-LOC Air Battle Game ,5,C3F-80A-A21,Turn on code to complete a level,Official Code - GGCD1.txt,167
+GP Rider,1,215-2CC-4C2 + 022-5EC-E69,0 to max speed instantly,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1083
+GP Rider,2,00B-C1C-3BE,Infinite time,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1084
+GP Rider,3,AF6-2CE-08F,Always rank first in qualifying race,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1085
+Halley Wars,1,00F-F2E-19E ,Infinite lives,Official Code - GGCD1.txt,187
+Halley Wars,2,00F-E1E-19E ,Keep power-ups after dying,Official Code - GGCD1.txt,188
+Halley Wars,3,014-43F-E66,Start with 1 life,Official Code - GGCD1.txt,189
+Halley Wars,4,054-43F-E66 ,Start with 5 lives,Official Code - GGCD1.txt,190
+Halley Wars,5,074-43F-E66 ,Start with 7 lives,Official Code - GGCD1.txt,191
+Halley Wars,6,3EF-5DF-082 + 04F-5EF-C43 + 00F-5FF-E69,Collect 1 gun power-up and get max,Official Code - GGCD1.txt,192
+Halley Wars,7,3EF-72F-082 + 03F-73F-C4F + 00F-74F-E69,Collect 1 thrust and get max manuverability,Official Code - GGCD1.txt,193
+Indiana Jones and the Last Crusade,1,041-42F-F72,Start with 5 lives,Official Code - GGCD1.txt,210
+Indiana Jones and the Last Crusade,2,081-42F-F72,Start with 9 lives,Official Code - GGCD1.txt,211
+Indiana Jones and the Last Crusade,3,0A1-42F-F72,Start with 11 lives,Official Code - GGCD1.txt,212
+Indiana Jones and the Last Crusade,4,002-9FF-3BE,Infinite lives,Official Code - GGCD1.txt,213
+Indiana Jones and the Last Crusade,5,002-839-19E,Infinite whips,Official Code - GGCD1.txt,214
+Indiana Jones and the Last Crusade,6,00A-3EE-3BE,Infinite time--switch off codes at end of level to go on,Official Code - GGCD1.txt,215
+James Pond II,1,015-C7F-E66,Start 1st game with 1 life,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1086
+James Pond II,2,055-C7F-E66,Start 1st game with 5 lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1087
+James Pond II,3,095-C7F-E66,Start 1st game with 9 lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1088
+James Pond II,4,01F-3FB-801,Infinite lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1089
+James Pond II,5,015-CCF-E66,Start 1st life with 1 energy,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1090
+James Pond II,6,055-CCF-E66,Start 1st life with 5 energy,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1091
+James Pond II,7,095-CCF-E66,Start 1st life with 9 energy,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1092
+James Pond II,8,017-36F-E66,Start rest of lives with 1 energy,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1093
+James Pond II,9,057-36F-E66,Start rest of lives with 5 energy,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1094
+James Pond II,10,097-36F-E66,Start rest of lives with 9 energy,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1095
+James Pond II,11,01E-30C-801,Immunity to spikes,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1096
+James Pond II,12,FF5-D2F-E6A,"Invincibility, and also one touch from you kills enemies","Official Code - GGCD5 (VOL. 1, NO. 2).txt",1097
+James Pond II,13,025-94F-F7A,Start with 1 continue,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1098
+James Pond II,14,055-94F-F7A,Start with 4 continues,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1099
+James Pond II,15,095-94F-F7A,Start with 8 continues,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1100
+James Pond II,16,005-D8F-801,Infinite continues,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1101
+Joe Montana Football (Version A),,"NOTE: THERE ARE 2 VERSIONS OF THIS GAME. IF THE 'VERSION A' CODES DON'T WORK ON YOUR GAME, THEN TRY THE 'VERSION B' CODES (BELOW)",,Official Code - GGCD1.txt,216
+Joe Montana Football (Version A),1,01B-B4F-FEE,1st quarter lasts 1 min.,Official Code - GGCD1.txt,217
+Joe Montana Football (Version A),2,02B-B4F-FEE,1st quarter lasts 2 min.,Official Code - GGCD1.txt,218
+Joe Montana Football (Version A),3,06B-B4F-FEE,1st quarter lasts 6 min.,Official Code - GGCD1.txt,219
+Joe Montana Football (Version A),4,001-A9F-E6E,Infinite time,Official Code - GGCD1.txt,220
+Joe Montana Football (Version A),5,00E-E3E-19A,Always 1st down--turn code off when computer has ball,Official Code - GGCD1.txt,221
+Joe Montana Football (Version A),6,02E-E5E-FEE,Only have 1 down to get 1st down,Official Code - GGCD1.txt,222
+Joe Montana Football (Version A),7,03E-E5E-FEE,Only have 2 downs to get 1st down,Official Code - GGCD1.txt,223
+Joe Montana Football (Version A),8,04E-E5E-FEE,Only have 3 downs to get 1st down,Official Code - GGCD1.txt,224
+Joe Montana Football (Version A),9,06E-E5E-FEE,Have 5 downs to get 1st down,Official Code - GGCD1.txt,225
+Joe Montana Football (Version A),10,001-B9B-A22 + 001-CDB-3B7,No scoring--turn off codes when you want to score,Official Code - GGCD1.txt,226
+Joe Montana Football (Version B),,"NOTE: THERE ARE 2 VERSIONS OF THIS GAME. IF THE 'VERSION B' CODES DON'T WORK ON YOUR GAME, THEN TRY THE 'VERSION A' CODES (ABOVE)",,Official Code - GGCD1.txt,227
+Joe Montana Football (Version B),1,01B-BAF-F7E,1st quarter lasts 1 min.,Official Code - GGCD1.txt,228
+Joe Montana Football (Version B),2,02B-BAF-F7E,1st quarter lasts 2 min.,Official Code - GGCD1.txt,229
+Joe Montana Football (Version B),3,06B-BAF-F7E,1st quarter lasts 6 min.,Official Code - GGCD1.txt,230
+Joe Montana Football (Version B),4,001-A6F-E6E,Infinite time,Official Code - GGCD1.txt,231
+Joe Montana Football (Version B),,*=Can switch on/off,,Official Code - GGCD1.txt,232
+Joe Montana Football (Version B),5,00E-EFE-19A,*Always 1st down,Official Code - GGCD1.txt,233
+Joe Montana Football (Version B),7,02E-F1E-F7E,Only have 1 down to get 1st down,Official Code - GGCD1.txt,234
+Joe Montana Football (Version B),8,03E-F1E-F7E,Only have 2 downs to get 1st down,Official Code - GGCD1.txt,235
+Joe Montana Football (Version B),9,04E-F1E-F7E,Only have 3 downs to get 1st down,Official Code - GGCD1.txt,236
+Joe Montana Football (Version B),10,06E-F1E-F7E,Have 5 downs to get 1st down,Official Code - GGCD1.txt,237
+Joe Montana Football (Version B),11,001-C8B-A22 + 001-DCB-3B7,*No scoring,Official Code - GGCD1.txt,238
+Jurassic Park,,Arcade Stage Codes:,,Official Code - GGCD2.txt,655
+Jurassic Park,1,01A-11B-E66,Start with 1 energy point,Official Code - GGCD2.txt,656
+Jurassic Park,2,02A-11B-E66,Start with 2 energy points,Official Code - GGCD2.txt,657
+Jurassic Park,3,05A-11B-E66,Start with 5 energy points,Official Code - GGCD2.txt,658
+Jurassic Park,4,09A-11B-E66,Start with 9 energy points,Official Code - GGCD2.txt,659
+Jurassic Park,5,AF6-E68-19A,One hit by an enemy is fatal,Official Code - GGCD2.txt,660
+Jurassic Park,6,3A6-E78-2A2,Invincibility,Official Code - GGCD2.txt,661
+Jurassic Park,,Action Stage Codes:,,Official Code - GGCD2.txt,662
+Jurassic Park,7,01E-2EB-E66,Start with 1 life--1st game only,Official Code - GGCD2.txt,663
+Jurassic Park,8,02E-2EB-E66,Start with 2 lives--1st game only,Official Code - GGCD2.txt,664
+Jurassic Park,9,05E-2EB-E66,Start with 5 lives--1st game only,Official Code - GGCD2.txt,665
+Jurassic Park,10,09E-2EB-E66,Start with 9 lives--1st game only,Official Code - GGCD2.txt,666
+Jurassic Park,,Pteranodon Level Codes:,,Official Code - GGCD2.txt,667
+Jurassic Park,11,012-509-E62,Hit enemies 1x and they run away,Official Code - GGCD2.txt,668
+Jurassic Park,12,052-509-E62,Hit enemies 5x and they run away,Official Code - GGCD2.txt,669
+Jurassic Park,13,092-509-E62,Hit enemies 9x and they run away,Official Code - GGCD2.txt,670
+Jurassic Park,14,05E-679-E66,Start with 5 lives on continue,Official Code - GGCD2.txt,671
+Jurassic Park,15,01E-679-E66,Start with 1 life on continue,Official Code - GGCD2.txt,672
+Jurassic Park,16,09E-679-E66,Start with 9 lives on continue,Official Code - GGCD2.txt,673
+Jurassic Park,17,C98-26D-19D,Invincibility--action stage only,Official Code - GGCD2.txt,674
+Jurassic Park,18,01E-2EB-E66 + 01E-11B-E66,Start first game with 1 life and 1 continue,Official Code - GGCD2.txt,675
+Jurassic Park,19,05E-2EB-E66 + 05E-11B-E66,Start first game with 5 lives and 5 continues,Official Code - GGCD2.txt,676
+Jurassic Park,20,09E-2EB-E66 + 09E-11B-E66,Start first game with 9 lives and 9 continues,Official Code - GGCD2.txt,677
+Jurassic Park,21,3AC-B49-2A2,Infinite lives,Official Code - GGCD2.txt,678
+Jurassic Park,22,00E-739-E69,Infinite continues,Official Code - GGCD2.txt,679
+Jurassic Park,23,AF8-22D-A20,1 touch by an enemy is fatal,Official Code - GGCD2.txt,680
+KLAX,1,003-28C-19A,Unlimited dropped tiles,Official Code - GGCD1.txt,239
+KLAX,2,197-3CD-E6E,"Start on wave 25, 30 or 35",Official Code - GGCD1.txt,240
+KLAX,3,327-3CD-E6E,"Start on wave 50, 55 or 60",Official Code - GGCD1.txt,241
+KLAX,4,637-3CD-E6E,Start on wave 99--don't choose 104 or 109,Official Code - GGCD1.txt,242
+KLAX,5,008-72D-193,Rand-omizes goal for completing each wave,Official Code - GGCD1.txt,243
+Krusty's Fun House,1,028-52D-E66,Start with 2 lives,Official Code - GGCD1.txt,244
+Krusty's Fun House,2,058-52D-E66,Start with 5 lives,Official Code - GGCD1.txt,245
+Krusty's Fun House,3,098-52D-E66,Start with 9 lives,Official Code - GGCD1.txt,246
+Krusty's Fun House,4,21F-215-19D,Infinite lives,Official Code - GGCD1.txt,247
+Krusty's Fun House,5,008-5E5-C42,Infinite energy,Official Code - GGCD1.txt,248
+Krusty's Fun House,6,078-87D-C4E,Start with 7 pies,Official Code - GGCD1.txt,249
+Krusty's Fun House,7,0B8-87D-C4E,Start with 11 pies,Official Code - GGCD1.txt,250
+Krusty's Fun House,8,0F8-87D-C4E,Start with 15 pies,Official Code - GGCD1.txt,251
+Krusty's Fun House,9,21C-134-19D,Infinite pies,Official Code - GGCD1.txt,252
+Land of Illusion starring Mickey Mouse,1,02F-31D-E66,Start with 3 lives,Official Code - GGCD1.txt,253
+Land of Illusion starring Mickey Mouse,2,04F-31D-E66,Start with 5 lives,Official Code - GGCD1.txt,254
+Land of Illusion starring Mickey Mouse,3,06F-31D-E66 ,Start with 7 lives,Official Code - GGCD1.txt,255
+Land of Illusion starring Mickey Mouse,4,08F-31D-E66 ,Start with 9 lives,Official Code - GGCD1.txt,256
+Land of Illusion starring Mickey Mouse,5,0AF-31D-E66 ,Start with 11 lives,Official Code - GGCD1.txt,257
+Land of Illusion starring Mickey Mouse,6,009-FAD-E6E,Infinite lives,Official Code - GGCD1.txt,258
+Land of Illusion starring Mickey Mouse,7,002-4CE-E6E,Infinite time--turn codes off at end of each level to go on,Official Code - GGCD1.txt,259
+Land of Illusion starring Mickey Mouse,8,00C-337-E69,Infinite energy,Official Code - GGCD1.txt,260
+Last Action Hero,1,031-20F-E6E,Start on scene 3,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1102
+Last Action Hero,2,051-20F-E6E,Start on scene 5,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1103
+Last Action Hero,3,071-20F-E6E,Start on scene 7,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1104
+Last Action Hero,4,011-25F-E66,Start with 1 life,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1105
+Last Action Hero,5,051-25F-E66,Start with 5 lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1106
+Last Action Hero,6,091-25F-E66,Start with 9 lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1107
+Last Action Hero,7,011-2AF-F76,Start with 1 heart,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1108
+Last Action Hero,8,051-2AF-F76,Start with 5 heart,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1109
+Last Action Hero,9,091-2AF-F76,Start with 9 heart,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1110
+Last Action Hero,10,3A1-F3F-2A2,Infinite lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1111
+Last Action Hero,11,AFE-9CF-19E,Collect 1 token to get fire extinguisher,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1112
+Last Action Hero,12,3A1-B1F-2A2,Infinite time,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1113
+Lemmings,1,00D-34D-19E,Infinite use of all types of lemmings,Official Code - GGCD1.txt,261
+Lemmings,2,009-FFF-3BE,Infinite time--counter still counts down--turn codes off to complete level,Official Code - GGCD1.txt,262
+Lemmings,3,3E8-57C-082 + 3E8-59C-805 + 648-5AC-E64,1 lemming equals 100 (you can nuke the rest of them if you want),Official Code - GGCD1.txt,263
+Madden NFL '95,1,011-7FB-E66,Only have 2 downs,Official Code - GGCD16.txt,1555
+Madden NFL '95,2,001-7DB-3BA,Infinite downs,Official Code - GGCD16.txt,1556
+Madden NFL '95,3,023-9EB-E6E,Start on down 2,Official Code - GGCD16.txt,1557
+Madden NFL '95,4,033-9EB-E6E,Start on down 3,Official Code - GGCD16.txt,1558
+Madden NFL '95,5,043-9EB-E6E,Start on down 4,Official Code - GGCD16.txt,1559
+Madden NFL '95,6,00B-287-19E,Infinite play clock switched off when the computer has the ball,Official Code - GGCD16.txt,1560
+Madden NFL '95,7,00B-6B7-19E,Infinite game time,Official Code - GGCD16.txt,1561
+Marvel Comics' X-Men: The GamesMaster's Legacy,1,002-644-195,Start with no mutant power,Official Code - GGCD10.txt,1338
+Marvel Comics' X-Men: The GamesMaster's Legacy,2,772-644-195,Start with 1/2 mutant power,Official Code - GGCD10.txt,1339
+Marvel Comics' X-Men: The GamesMaster's Legacy,3,3AA-2A7-2A2,Infinite mutant power,Official Code - GGCD10.txt,1340
+Marvel Comics' X-Men: The GamesMaster's Legacy,4,14A-267-C42,Mutant power is used quicker,Official Code - GGCD10.txt,1341
+Marvel Comics' X-Men: The GamesMaster's Legacy,5,3AA-BD7-2A2,Infinite energy,Official Code - GGCD10.txt,1342
+Marvel Comics' X-Men: The GamesMaster's Legacy,6,AFA-BA7-2AA + 00A-BB7-E6E,One hit is fatal~most of the time,Official Code - GGCD10.txt,1343
+Marvel Comics' X-Men: The GamesMaster's Legacy,7,012-634-195,Start with very little energy,Official Code - GGCD10.txt,1344
+Marvel Comics' X-Men: The GamesMaster's Legacy,8,772-634-195,Start with 1/2 energy,Official Code - GGCD10.txt,1345
+Marvel Comics' X-Men: The GamesMaster's Legacy,9,FFA-A97-2A2,Flash a lot longer after getting hit,Official Code - GGCD10.txt,1346
+Marvel Comics' X-Men: The GamesMaster's Legacy,10,000-2F7-19E,1 hit and you're invisible,Official Code - GGCD10.txt,1347
+Marvel Comics' X-Men: The GamesMaster's Legacy,11,000-2B7-806,Almost invincible,Official Code - GGCD10.txt,1348
+Mighty Morphin Power Rangers,1,7AE-12B-2A9,All Power Rangers start with 12 energy,Official Code - GGCD10.txt,1322
+Mighty Morphin Power Rangers,2,AFE-12B-2A9,All Power Rangers start with 34 energy,Official Code - GGCD10.txt,1323
+Mighty Morphin Power Rangers,3,45E-12B-2A9,All Power Rangers start with 14 energy,Official Code - GGCD10.txt,1324
+Mighty Morphin Power Rangers,4,212-D5E-91D,Only throws do damage,Official Code - GGCD10.txt,1325
+Mighty Morphin Power Rangers,5,3A3-AEA-2A2,Don't get any energy from defeating an opponent,Official Code - GGCD10.txt,1326
+Mighty Morphin Power Rangers,6,3E3-A2A-082 + 003 a4a c49 + ff3 a3a 916,Get max energy from defeating an opponent,Official Code - GGCD10.txt,1327
+Mighty Morphin Power Rangers,7,25D-D95-F7E,Grey Putty is harder to kill,Official Code - GGCD10.txt,1328
+Mighty Morphin Power Rangers,8,10E-155-2A9,Goldar is easier to kill,Official Code - GGCD10.txt,1329
+Mighty Morphin Power Rangers,9,20E-245-C42,Green Putty is harder to kill,Official Code - GGCD10.txt,1330
+Mighty Morphin Power Rangers,10,3EE-9EB-193 + 02E-9FB-6E6,After defeating some enemies you fight other Power Rangers--May cause slight graphic errors,Official Code - GGCD10.txt,1331
+Mighty Morphin Power Rangers,11,3E9-E6A-082 + 009-E7A-E6A + 009-E8A-C49,Always fight on the Park stage,Official Code - GGCD10.txt,1332
+Mighty Morphin Power Rangers,12,3E9-E6A-082 + 019-E7A-E6A + 009-E8A-C49,Always fight on the Mountain stage,Official Code - GGCD10.txt,1333
+Mighty Morphin Power Rangers,13,3E9-E6A-082 + 029-E7A-E6A + 009-E8A-C49,Always fight on the Alley stage,Official Code - GGCD10.txt,1334
+Mighty Morphin Power Rangers,14,3E9-E6A-082 + 039-E7A-E6A + 009-E8A-C49,Always fight on the City stage,Official Code - GGCD10.txt,1335
+Mighty Morphin Power Rangers,15,3E9-E6A-082 + 039-E7A-E6A + 009-E8A-C49,Always fight on the Construction stage,Official Code - GGCD10.txt,1336
+Mighty Morphin Power Rangers,16,3E9-E6A-082 + 059-E7A-E6A + 009-E8A-C49,Always fight on the Refinery stage,Official Code - GGCD10.txt,1337
+Mortal Kombat,1,063-7B4-C4E,Each round is 69 seconds,Official Code - GGCD2.txt,681
+Mortal Kombat,2,023-7B4-C4E,Each round is 29 seconds,Official Code - GGCD2.txt,682
+Mortal Kombat,3,00B-40C-3BE,Infinite time,Official Code - GGCD2.txt,683
+Mortal Kombat,4,004-2D6-19E,Infinite credits,Official Code - GGCD2.txt,684
+Mortal Kombat,5,DEB-9F6-5D3,Blood,Official Code - GGCD2.txt,685
+Mortal Kombat,6,003-48B-F79,Player 1 is invincible,Official Code - GGCD2.txt,686
+Mortal Kombat,7,240-BFD-C4B,Player 1 starts with 1/2 health,Official Code - GGCD2.txt,687
+Mortal Kombat,8,240-C5D-C4B,Player 2 usually starts with 1/2 health,Official Code - GGCD2.txt,688
+Mortal Kombat,9,20B-06F-F7A,Punches do more damage,Official Code - GGCD2.txt,689
+Mortal Kombat,10,2CB-26F-C42,Most kicks do more damage,Official Code - GGCD2.txt,690
+Mortal Kombat,11,30B-86F-C42,Foot sweeps do more damage,Official Code - GGCD2.txt,691
+Mortal Kombat,12,30B-2EF-D5A,Flying punches do more damage,Official Code - GGCD2.txt,692
+Mortal Kombat,13,33B-56F-A2E,Uppercuts do more damage,Official Code - GGCD2.txt,693
+Mortal Kombat,14,2AF-237-D5A,Throws do more damage,Official Code - GGCD2.txt,694
+Mortal Kombat,15,2BB-76F-F7A,Sonya Blade's leg grab does more damage,Official Code - GGCD2.txt,695
+Mortal Kombat,16,2BB-66F-F7A,Scorpion's harpoon does more damage,Official Code - GGCD2.txt,696
+Mortal Kombat,17,2BB-6EF-F7A,Rayden's flying thunderbolt does more damage,Official Code - GGCD2.txt,697
+Mortal Kombat,18,2BB-4EF-D56,Johhny Cage's shadow kick does more damage,Official Code - GGCD2.txt,698
+Mortal Kombat,19,37B-36F-D52,Some other special moves do more damage,Official Code - GGCD2.txt,699
+Mortal Kombat,20,01B-C9A-E6A,Start on match 2,Official Code - GGCD2.txt,700
+Mortal Kombat,21,02B-C9A-E6A,Start on match 3,Official Code - GGCD2.txt,701
+Mortal Kombat,22,03B-C9A-E6A,Start on match 4,Official Code - GGCD2.txt,702
+Mortal Kombat,23,04B-C9A-E6A,Start on match 5,Official Code - GGCD2.txt,703
+Mortal Kombat,24,05B-C9A-E6A,Start on mirror match ,Official Code - GGCD2.txt,704
+Mortal Kombat,25,06B-C9A-E6A,Start on endurance match 1,Official Code - GGCD2.txt,705
+Mortal Kombat,26,07B-C9A-E6A,Start on endurance match 2,Official Code - GGCD2.txt,706
+Mortal Kombat,27,08B-C9A-E6A,Start on endurance match 3,Official Code - GGCD2.txt,707
+Mortal Kombat,28,09B-C9A-E6A,Start on match against Goro,Official Code - GGCD2.txt,708
+Mortal Kombat,29,0AB-C9A-E6A,Start on match against Shang Tsung,Official Code - GGCD2.txt,709
+Mortal Kombat,30,02B-E1A-F76,Start with 1 credit,Official Code - GGCD2.txt,710
+Mortal Kombat,31,06B-E1A-F76,Start with 5 credits,Official Code - GGCD2.txt,711
+Mortal Kombat,32,0BB-E1A-F76,Start with 10 credits,Official Code - GGCD2.txt,712
+Mortal Kombat II,1,00B-B19-F79,Infinite energy,Official Code - GGCD7.txt,1251
+Mortal Kombat II,2,001-30A-082 + 3E1-31A-C42 + 001-32A-F7A,View ending,Official Code - GGCD7.txt,1252
+Mortal Kombat II,3,3A4-026-2A2,Infinite credits,Official Code - GGCD7.txt,1253
+Mortal Kombat II,4,001-2CA-F76,Start with 0 credits ,Official Code - GGCD7.txt,1254
+Mortal Kombat II,5,0B1-2CA-F76,Start with 10 credits ,Official Code - GGCD7.txt,1255
+Mortal Kombat II,6,101-2CA-F76,Start with 15 credits ,Official Code - GGCD7.txt,1256
+Mortal Kombat II,7,04B-7C6-C4E,Start with 49 sec.,Official Code - GGCD7.txt,1257
+Mortal Kombat II,8,07B-7C6-C4E,Start with 79 sec.,Official Code - GGCD7.txt,1258
+Mortal Kombat II,9,00B-7C6-C4E,Start with 9 sec.,Official Code - GGCD7.txt,1259
+Mortal Kombat II,10,005-3F5-3BE,Infinite time,Official Code - GGCD7.txt,1260
+Mortal Kombat II,11,32B-A3E-F77,Start with 3/4 energy--player 1,Official Code - GGCD7.txt,1261
+Mortal Kombat II,12,22B-A3E-F77,Start with 1/2 energy--player 1,Official Code - GGCD7.txt,1262
+Mortal Kombat II,13,12B-A3E-F77,Start with 1/4 energy--player 1,Official Code - GGCD7.txt,1263
+Mortal Kombat II,14,02B-A3E-F77,Start with very little energy--player 1,Official Code - GGCD7.txt,1264
+Mortal Kombat II,15,32B-A6E-F77,Start with 3/4 energy--player 2,Official Code - GGCD7.txt,1265
+Mortal Kombat II,16,22B-A6E-F77,Start with 1/2 energy--player 2,Official Code - GGCD7.txt,1266
+Mortal Kombat II,17,12B-A6E-F77,Start with 1/4 energy--player 2,Official Code - GGCD7.txt,1267
+Mortal Kombat II,18,02B-A6E-F77,Start with very little energy--player 2,Official Code - GGCD7.txt,1268
+Mortal Kombat II,19,006-4EF-D56,Flying kick does no damage,Official Code - GGCD7.txt,1269
+Mortal Kombat II,20,996-4EF-D56,Flying kick does mega damage,Official Code - GGCD7.txt,1270
+Mortal Kombat II,21,006-66F-A2E,Uppercut does no damage,Official Code - GGCD7.txt,1271
+Mortal Kombat II,22,996-66F-A2E,Uppercut does mega damage,Official Code - GGCD7.txt,1272
+Mortal Kombat II,23,006-1EF-E66,Crouching kick does no damage,Official Code - GGCD7.txt,1273
+Mortal Kombat II,24,996-1EF-E66,Crouching kick does mega damage,Official Code - GGCD7.txt,1274
+Mortal Kombat II,25,006-26F-F72,Regular high kick does no damage,Official Code - GGCD7.txt,1275
+Mortal Kombat II,26,996-26F-F72,Regular high kick does mega damage,Official Code - GGCD7.txt,1276
+Mortal Kombat II,27,006-AEF-C42,Roundhouse foot sweep does no damage,Official Code - GGCD7.txt,1277
+Mortal Kombat II,28,996-AEF-C42,Roundhouse foot sweep does mega damage,Official Code - GGCD7.txt,1278
+Ms. Pac-Man,,Codes work for player 1 only,,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1114
+Ms. Pac-Man,1,3E1-93A-6EA + 099-94A-E62,Ghosts are faster than normal after 1st level,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1115
+Ms. Pac-Man,2,C92-D1A-C45,After a power pill runs out the ghosts go mad,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1116
+Ms. Pac-Man,3,00C-F29-19E,Infinite lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1117
+Ms. Pac-Man,4,014-DF9-E66,Start with 1 life,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1118
+Ms. Pac-Man,5,094-DF9-E66,Start with 9 lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1119
+NBA Jam,1,3CA-419-E68,Player 1's baskets always worth 1,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1120
+NBA Jam,2,3EA-3B9-C45 + 02A-3C9-194,Player 1's 3-pt. shots worth 2,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1121
+NBA Jam,3,3EA-3B9-C45 + 03A-3C9-194,Player 1's 2-pt. shots worth 3,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1122
+NBA Jam,4,3EA-3B9-C45 + 04A-3C9-194,Player 1's baskets always worth 4,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1123
+NBA Jam,5,3EA-3B9-C45 + 05A-3C9-194,Player 1's baskets always worth 5,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1124
+NBA Jam,6,3EA-3B9-C45 + 06A-3C9-194,Player 1's baskets always worth 6,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1125
+NBA Jam,7,3EA-3B9-C45 + 07A-3C9-194,Player 1's baskets always worth 7,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1126
+NBA Jam,8,3EA-3B9-C45 + 08A-3C9-194,Player 1's baskets always worth 8,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1127
+NBA Jam,9,3CA-5E9-E68,Player 2's baskets always worth 1,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1128
+NBA Jam,10,07E-214-C46,Player has super dunk ability,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1129
+NBA Jam,11,07E-0F4-C46,Player has infinite turbo,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1130
+NBA Jam,12,07E-334-C46,Player is permanently 'on fire',"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1131
+NBA Jam,13,07D-EB4-C46,Player has enhanced interception ability,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1132
+NBA Jam,14,00D-E34-F7A,Player has enhanced defensive ability,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1133
+NBA Jam,15,07E-454-D56,'Juice' mode,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1134
+NBA Jam,16,07D-FD4-C46,Shot success percentages displayed for all non-dunk shots,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1135
+NBA Jam,,CODES 17 THRU 25 MAY OCCASIONALLY CAUSE SOME GRAPHIC ERRORS,,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1136
+NBA Jam,17,01A-EE9-E66,Only 1 basket needed to be 'on fire',"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1137
+NBA Jam,18,02A-EE9-E66,Only 2 baskets needed to be 'on fire',"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1138
+NBA Jam,19,04A-EE9-E66,4 baskets needed to be 'on fire',"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1139
+NBA Jam,20,05A-EE9-E66,5 baskets needed to be 'on fire',"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1140
+NBA Jam,21,06A-EE9-E66,6 baskets needed to be 'on fire',"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1141
+NBA Jam,22,07A-EE9-E66,7 baskets needed to be 'on fire',"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1142
+NBA Jam,23,08A-EE9-E66,8 baskets needed to be 'on fire',"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1143
+NBA Jam,24,09A-EE9-E66,9 baskets needed to be 'on fire',"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1144
+NBA Jam,25,0AA-EE9-E66,10 baskets needed to be 'on fire',"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1145
+NBA Jam,26,0ED-2AA-5D2,Turbo drains very slowly,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1146
+NBA Jam,27,15D-2AA-5D2,Turbo drains slower,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1147
+NBA Jam,28,1DD-2AA-5D2,Turbo drains slightly slower,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1148
+NBA Jam,29,40D-2AA-5D2,Turbo drains slightly faster,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1149
+NBA Jam,30,50D-2AA-5D2,Turbo drains faster,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1150
+NBA Jam,31,81D-2AA-5D2,Turbo drains very quickly,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1151
+NBA Jam,32,C9D-5DA-91D,Turbo doesn't recharge until end of quarter,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1152
+NBA Jam,33,001-4CD-19E,Infinite shot clock time,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1153
+NBA Jam,34,031-25A-80A,3-sec. shot clock for computer,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1154
+NBA Jam,35,051-25A-80A,5-sec. shot clock for computer,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1155
+NBA Jam,36,0F1-25A-80A,15-sec. shot clock for computer,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1156
+NBA Jam,37,007-D09-E62,Gravity mode 1,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1157
+NBA Jam,38,017-D09-E62,Gravity mode 2,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1158
+NBA Jam,39,3A5-D9E-2A2,Infinite time,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1159
+,,,,,
+NBA Jam,41,008-C7F-E66 + 00A-C6F-E66,1-shot game,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1161
+NBA Jam,42,098-C7F-E66 + 09A-C6F-E66,9-min. quarters,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1162
+NBA Jam,43,018-C7F-E66 + 01A-C6F-E66,1-min. quarters,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1163
+NBA Jam,44,3AA-5F9-2A2,Computer can't score,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1164
+NBA Jam,45,028-8CF-E6E,Games last 3 quarters,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1165
+NBA Jam,46,038-8CF-E6E,Games last 2 quarters,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1166
+NBA Jam,47,200-CFD-C46,Shot clock always displayed,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1167
+NBA JAM Tournament Edition,1,7E3-859-3B7,Infinite turbo when on offense,Official Code - GGCD15.txt,1474
+NBA JAM Tournament Edition,2,7E3-A59-3B7,Turbo doesn't recharge,Official Code - GGCD15.txt,1475
+NBA JAM Tournament Edition,3,00D-2EA-19E,No shot clock,Official Code - GGCD15.txt,1476
+NBA JAM Tournament Edition,5,00A-CE6-E62,CPU's 2 pt. shots are worth 0,Official Code - GGCD15.txt,1477
+NBA JAM Tournament Edition,6,01A-CE6-E62,CPU's 2 pt. shots are worth 1,Official Code - GGCD15.txt,1478
+NBA JAM Tournament Edition,7,03A-CE6-E62,CPU's 2 pt. shots are worth 3,Official Code - GGCD15.txt,1479
+NBA JAM Tournament Edition,8,04A-CE6-E62,CPU's 2 pt. shots are worth 4,Official Code - GGCD15.txt,1480
+NBA JAM Tournament Edition,9,05A-CE6-E62,CPU's 2 pt. shots are worth 5,Official Code - GGCD15.txt,1481
+NBA JAM Tournament Edition,10,06A-CE6-E62,CPU's 2 pt. shots are worth 6,Official Code - GGCD15.txt,1482
+NBA JAM Tournament Edition,11,07A-CE6-E62,CPU's 2 pt. shots are worth 7,Official Code - GGCD15.txt,1483
+NBA JAM Tournament Edition,12,08A-CE6-E62,CPU's 2 pt. shots are worth 8,Official Code - GGCD15.txt,1484
+NBA JAM Tournament Edition,13,09A-CE6-E62,CPU's 2 pt. shots are worth 9,Official Code - GGCD15.txt,1485
+NBA JAM Tournament Edition,16,217-02D-6E2,MASTER CODE--MUST BE ENTERED FOR THE FOLLOWING CODES TO WORK,Official Code - GGCD15.txt,1486
+NBA JAM Tournament Edition,17,017-03D-B3E,Character number one is Bill Clinton,Official Code - GGCD15.txt,1487
+NBA JAM Tournament Edition,18,027-03D-B3E,Character number one is Hillary Clinton,Official Code - GGCD15.txt,1488
+NBA JAM Tournament Edition,19,037-03D-B3E,Character number one is Suns Gorilla,Official Code - GGCD15.txt,1489
+NBA JAM Tournament Edition,20,047-03D-B3E,Character number one is Heavy D,Official Code - GGCD15.txt,1490
+NBA JAM Tournament Edition,21,057-03D-B3E,Character number one is Jazzy Jeff,Official Code - GGCD15.txt,1491
+NBA JAM Tournament Edition,22,067-03D-B3E,Character number one is Fresh Prince,Official Code - GGCD15.txt,1492
+NBA JAM Tournament Edition,23,077-03D-B3E,Character number one is Thomas,Official Code - GGCD15.txt,1493
+NBA JAM Tournament Edition,24,087-03D-B3E,Character number one is Cunningham,Official Code - GGCD15.txt,1494
+NBA JAM Tournament Edition,25,097-03D-B3E,Character number one is Bird,Official Code - GGCD15.txt,1495
+NBA JAM Tournament Edition,26,0A7-03D-B3E,Character number one is Mike D,Official Code - GGCD15.txt,1496
+NBA JAM Tournament Edition,27,0B7-03D-B3E,Character number one is ADROCK,Official Code - GGCD15.txt,1497
+NBA JAM Tournament Edition,28,0C7-03D-B3E,Character number one is MCA,Official Code - GGCD15.txt,1498
+NBA JAM Tournament Edition,29,0D7-03D-B3E,Character number one is Hugo,Official Code - GGCD15.txt,1499
+NBA JAM Tournament Edition,30,0E7-03D-B3E,Character number one is Crunch,Official Code - GGCD15.txt,1500
+NBA JAM Tournament Edition,31,017-04D-D5D,Character number two is Bill Clinton,Official Code - GGCD15.txt,1501
+NBA JAM Tournament Edition,32,027-04D-D5D,Character number two is Hillary Clinton,Official Code - GGCD15.txt,1502
+NBA JAM Tournament Edition,33,037-04D-D5D,Character number two is Suns Gorilla,Official Code - GGCD15.txt,1503
+NBA JAM Tournament Edition,34,047-04D-D5D,Character number two is Heavy D,Official Code - GGCD15.txt,1504
+NBA JAM Tournament Edition,35,057-04D-D5D,Character number two is Jazzy Jeff,Official Code - GGCD15.txt,1505
+NBA JAM Tournament Edition,36,067-04D-D5D,Character number two is Fresh Prince,Official Code - GGCD15.txt,1506
+NBA JAM Tournament Edition,37,077-04D-D5D,Character number two is Thomas,Official Code - GGCD15.txt,1507
+NBA JAM Tournament Edition,38,087-04D-D5D,Character number two is Cunningham,Official Code - GGCD15.txt,1508
+NBA JAM Tournament Edition,39,097-04D-D5D,Character number two is Bird,Official Code - GGCD15.txt,1509
+NBA JAM Tournament Edition,40,0A7-04D-D5D,Character number two is Mike D,Official Code - GGCD15.txt,1510
+NBA JAM Tournament Edition,41,0B7-04D-D5D,Character number two is ADROCK,Official Code - GGCD15.txt,1511
+NBA JAM Tournament Edition,42,0C7-04D-D5D,Character number two is MCA,Official Code - GGCD15.txt,1512
+NBA JAM Tournament Edition,43,0D7-04D-D5D,Character number two is Hugo,Official Code - GGCD15.txt,1513
+NBA JAM Tournament Edition,44,0E7-04D-D5D,Character number two is Crunch,Official Code - GGCD15.txt,1514
+NFL '95,1,3A2-6DB-2A2,Infinite time outs,Official Code - GGCD11.txt,1363
+NFL '95,2,00C-DAF-E66,No time outs,Official Code - GGCD11.txt,1364
+NFL '95,3,05C-DAF-E66,Start with 5 time outs,Official Code - GGCD11.txt,1365
+NFL '95,4,10C-DAF-E66,Start with 10 time outs,Official Code - GGCD11.txt,1366
+NFL '95,5,00C-F4F-F7E,Only have enough time for one play after kick off in each quater,Official Code - GGCD11.txt,1367
+NFL '95,6,02C-F4F-F7E,2 min. quarters,Official Code - GGCD11.txt,1368
+NFL '95,7,3CC-F4F-F7E,60 min. quarters,Official Code - GGCD11.txt,1369
+NFL '95,8,3A8-D7E-2A2,Infinite play timer,Official Code - GGCD11.txt,1370
+NFL '95,9,0A0-79B-4CA,Start with 10 seconds on play clock after most plays,Official Code - GGCD11.txt,1371
+NFL '95,10,049-35E-E6E + 509-30E-C42,Always 4th and goal after a kickoff,Official Code - GGCD11.txt,1372
+NFL '95,11,006-B09-F72,Touchdowns worth 0 points,Official Code - GGCD11.txt,1373
+NFL '95,12,016-B09-F72,Touchdowns worth 1 point,Official Code - GGCD11.txt,1374
+NFL '95,13,036-B09-F72,Touchdowns worth 3 points,Official Code - GGCD11.txt,1375
+NFL '95,14,056-B09-F72,Touchdowns worth 5 points,Official Code - GGCD11.txt,1376
+NFL '95,15,096-B09-F72,Touchdowns worth 9 points,Official Code - GGCD11.txt,1377
+NFL '95,16,000-6C9-3BA,Extra Points worth 0 points,Official Code - GGCD11.txt,1378
+NHL Hockey,1,009-D3B-E6E,Infinite game time,Official Code - GGCD16.txt,1571
+NHL Hockey,2,029-D3B-E6E,Timer counts by 2,Official Code - GGCD16.txt,1572
+NHL Hockey,3,02E-40F-A2A,Each period is 2 minutes long,Official Code - GGCD16.txt,1573
+NHL Hockey,4,01E-40F-A2A,Each period is 1 minute long,Official Code - GGCD16.txt,1574
+NHL Hockey,5,99E-40F-A2A,Each period is 99 minute long,Official Code - GGCD16.txt,1575
+NHL Hockey,6,00F-BE8-19A,No scoring,Official Code - GGCD16.txt,1576
+NHL Hockey,7,00F-2E8-B39 + 010-53A-F7A,Always 1st period,Official Code - GGCD16.txt,1577
+Ninja Gaiden,1,C90-CBE-2A2,Infinite energy,Official Code - GGCD1.txt,279
+Ninja Gaiden,2,009-439-F79,Infinite lives,Official Code - GGCD1.txt,280
+Ninja Gaiden,3,011-EDF-E66,Start with 1 life,Official Code - GGCD1.txt,281
+Ninja Gaiden,4,051-EDF-E66,Start with 5 lives,Official Code - GGCD1.txt,282
+Ninja Gaiden,5,081-EDF-E66,Start with 8 lives,Official Code - GGCD1.txt,283
+Ninja Gaiden,6,021-6CF-E6E,Start on act 2 (Smuggling),Official Code - GGCD1.txt,284
+Ninja Gaiden,7,031-6CF-E6E,Start on act 3 (Skyscraper),Official Code - GGCD1.txt,285
+Ninja Gaiden,8,041-6CF-E6E,"Start on act 4, part 1 (Counterattack)",Official Code - GGCD1.txt,286
+Ninja Gaiden,9,051-6CF-E6E,"Start on act 4, part 2 (Counterattack)",Official Code - GGCD1.txt,287
+Ninja Gaiden,10,061-6CF-E6E,See end credits,Official Code - GGCD1.txt,288
+Ninja Gaiden,11,C35-F6F-E61,Infinite time,Official Code - GGCD1.txt,289
+Ninja Gaiden,12,834-D7F-E60,Start timer at 399,Official Code - GGCD1.txt,290
+Ninja Gaiden,13,854-D7F-E60,Start timer at 599,Official Code - GGCD1.txt,291
+Ninja Gaiden,14,000-C7E-B30,Almost invincible,Official Code - GGCD1.txt,292
+Ninja Gaiden,15,3E2-07C-082 + 012-08C-C46 + 002-09C-A21,Kill most level bosses with 1 hit,Official Code - GGCD1.txt,293
+Ninja Gaiden,16,665-64F-E64,Slow motion!,Official Code - GGCD1.txt,294
+Olympic Gold Barcelona 92,,Archery codes:,,Official Code - GGCD1.txt,295
+Olympic Gold Barcelona 92,1,0A6-08B-F72,Start with 10 arrows,Official Code - GGCD1.txt,296
+Olympic Gold Barcelona 92,2,0F6-08B-F72,Start with 15 arrows,Official Code - GGCD1.txt,297
+Olympic Gold Barcelona 92,3,146-08B-F72,Start with 20 arrows,Official Code - GGCD1.txt,298
+Olympic Gold Barcelona 92,4,009-A7B-3BE,Infinite arrows,Official Code - GGCD1.txt,299
+Olympic Gold Barcelona 92,5,005-6EF-3BA,Infinite time,Official Code - GGCD1.txt,300
+Out Run Europa,1,007-6BD-E6E,Infinite time,Official Code - GGCD1.txt,301
+Out Run Europa,2,00C-8EF-19E,Infinite turbos,Official Code - GGCD1.txt,302
+Out Run Europa,3,054-27F-C42,Start with 8 shields,Official Code - GGCD1.txt,303
+Out Run Europa,4,024-27F-C42,Start with 5 shields,Official Code - GGCD1.txt,304
+Out Run Europa,5,007-E4E-19E,Infinite ammo,Official Code - GGCD1.txt,305
+Pac-Man,1,027-9C6-E66,Start with 3 lives,Official Code - GGCD1.txt,306
+Pac-Man,2,057-9C6-E66,Start with 5 lives,Official Code - GGCD1.txt,307
+Pac-Man,3,077-9C6-E66,Start with 7 lives,Official Code - GGCD1.txt,308
+Pac-Man,4,00A-896-19E,Infinite lives,Official Code - GGCD1.txt,309
+Pac-Man,5,008-396-4C6,Collect power pill and ghosts stay blue until eaten,Official Code - GGCD1.txt,310
+Paperboy,1,012-3CF-E66,Start with 2 lives,Official Code - GGCD1.txt,311
+Paperboy,2,062-3CF-E66,Start with 7 lives,Official Code - GGCD1.txt,312
+Paperboy,3,092-3CF-E66,Start with 10 lives,Official Code - GGCD1.txt,313
+Paperboy,4,00C-57F-19E,Infinite lives,Official Code - GGCD1.txt,314
+Paperboy,5,052-41F-C42,Start with 5 papers,Official Code - GGCD1.txt,315
+Paperboy,6,0F2-41F-C42,Start with 15 papers,Official Code - GGCD1.txt,316
+Paperboy,7,142-41F-C42,Start with 20 papers,Official Code - GGCD1.txt,317
+Paperboy,8,00C-6C9-19E,Infinite papers,Official Code - GGCD1.txt,318
+Paperboy 2,1,003-6FF-6E6,Makes it much harder to pick up speed,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1168
+Pengo,1,00C-F9D-E6E,Stop timer (gives maximum bonus pts.) and keep Sno-Bee eggs flashing,Official Code - GGCD1.txt,319
+Pengo,2,020-85F-F7E,Start with 2 lives,Official Code - GGCD1.txt,320
+Pengo,3,070-85F-F7E,Start with 7 lives,Official Code - GGCD1.txt,321
+Pengo,4,090-85F-F7E,Start with 9 lives,Official Code - GGCD1.txt,322
+Pengo,5,007-3EF-3BE,Infinite lives,Official Code - GGCD1.txt,323
+Pengo,6,0A0-8AF-E6E,Start on act 10,Official Code - GGCD1.txt,324
+Pengo,7,130-8AF-E6E,Start on act 20,Official Code - GGCD1.txt,325
+Pengo,8,280-8AF-E6E,Start on act 40,Official Code - GGCD1.txt,326
+Pengo,9,400-8AF-E6E,Start on act 64,Official Code - GGCD1.txt,327
+PGA Tour Golf,1,3E7-71C-191 + 407-72C-105 + 187-73C-6EA,Strong wind,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1169
+PGA Tour Golf,2,3E7-71C-191 + 1F7-71C-195 + 187-73C-6EA,Massive wind,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1170
+PGA Tour Golf,3,017-A2C-4CA,Hit longer shots,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1171
+PGA Tour Golf,4,FF7-A2C-4CA,Hit even longer shots,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1172
+PGA Tour Golf,5,006-50D-19A,Shots don't count--always hole in one,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1173
+Phantom 2040,1,109-309-A2A,Start with 10 bullets for your normal gun,Official Code - GGCD17.txt,1583
+Phantom 2040,2,259-309-A2A,Start with 25 bullets for your normal gun,Official Code - GGCD17.txt,1584
+Phantom 2040,3,509-309-A2A,Start with 50 bullets for your normal gun,Official Code - GGCD17.txt,1585
+Phantom 2040,4,759-309-A2A,Start with 75 bullets for your normal gun,Official Code - GGCD17.txt,1586
+Phantom 2040,5,999-309-A2A,Start with 99 bullets for your normal gun,Official Code - GGCD17.txt,1587
+Phantom 2040,6,005-A9E-E6E,Infinite bullets for your normal gun,Official Code - GGCD17.txt,1588
+Phantom 2040,7,019-419-E66,Start with 1 life,Official Code - GGCD17.txt,1589
+Phantom 2040,8,059-419-E66,Start with 5 lives,Official Code - GGCD17.txt,1590
+Phantom 2040,9,079-419-E66,Start with 7 lives,Official Code - GGCD17.txt,1591
+Phantom 2040,10,099-419-E66,Start with 9 lives,Official Code - GGCD17.txt,1592
+Phantom 2040,11,993-2AC-F72,Always collect max bullets for your normal gun,Official Code - GGCD17.txt,1593
+Phantom 2040,12,7EE-509-3B7,Almost infinite energy--Switch off to kill some enemies,Official Code - GGCD17.txt,1594
+PINBALL DREAMS,1,C9B-64C-6EE,Can't tilt,Official Code - GGCD6.txt,1245
+PINBALL DREAMS,2,01C-E2F-B3D,Infinite balls,Official Code - GGCD6.txt,1246
+PINBALL DREAMS,3,01C-E6F-E66,1 ball,Official Code - GGCD6.txt,1247
+PINBALL DREAMS,4,05C-E6F-E66,5 balls,Official Code - GGCD6.txt,1248
+PINBALL DREAMS,5,0FC-E6F-E66,15 balls,Official Code - GGCD6.txt,1249
+PINBALL DREAMS,6,3E0-E5E-2A2 + 040-E6E-4CE + 000-E7E-B3D,Always start with 5x bonus (collecting extra onuses may reduce your bonus),Official Code - GGCD6.txt,1250
+Poker Face Paul's Poker,1,FF2-EBE-2A2,Max bet is about $250,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1174
+Poker Face Paul's Poker,2,995-FDF-6EA,"Start with $9,900","Official Code - GGCD5 (VOL. 1, NO. 2).txt",1175
+Poker Face Paul's Poker,3,00C-F4F-A24,Don't lose money in 5-card stud,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1176
+Predator 2,1,00F-D2E-3BE,Infinite lives,Official Code - GGCD1.txt,328
+Predator 2,2,001-8EE-19E,Infinite ammo--all weapons,Official Code - GGCD1.txt,329
+Predator 2,3,7F2-38D-911 + 7B2-3CD-197 + 012-33D-E66,Start on Level 2,Official Code - GGCD1.txt,330
+Predator 2,4,7F2-38D-911 + 7B2-3CD-197 + 022-33D-E66,Start on Level 3,Official Code - GGCD1.txt,331
+Predator 2,5,7F2-38D-911 + 7B2-3CD-197,Start on Level 4,Official Code - GGCD1.txt,332
+Predator 2,6,7F2-38D-911 + 7B2-3CD-197 + 042-33D-E66,Start on Level 5,Official Code - GGCD1.txt,333
+Predator 2,7,7F2-38D-911 + 7B2-3CD-197 + 052-33D-E66,Start on Level 6,Official Code - GGCD1.txt,334
+Predator 2,8,7F2-38D-911 + 7B2-3CD-197 + 062-33D-E66,Start on Level 7,Official Code - GGCD1.txt,335
+Predator 2,9,7F2-38D-911 + 7B2-3CD-197 + 072-33D-E66,See end credits,Official Code - GGCD1.txt,336
+Prince of Persia,,"If you lose a life and the Prince disappears, switch codes off and then on and he will reappear.",,Official Code - GGCD1.txt,337
+Prince of Persia,1,004-03B-19E,Infinite time,Official Code - GGCD1.txt,338
+Prince of Persia,2,2D2-08F-19A,45-min. game,Official Code - GGCD1.txt,339
+Prince of Persia,3,142-08F-19A,20-min. game,Official Code - GGCD1.txt,340
+Prince of Persia,4,0A2-08F-19A,10-min. game,Official Code - GGCD1.txt,341
+Prince of Persia,,"*=Additional health units only show up when you enter game 081-38C-E66 *Start with more health units--select options screen, move cursor down to health units, press 1 button 3x for 6 health units, 4x for 7 health  units, 5x for 8 health units (maximum)",,Official Code - GGCD1.txt,342
+Prince of Persia,5,001-E9E-3BE,Don't lose health units when you drop off some ledges--you do lose additional units but won't go below 3,Official Code - GGCD1.txt,343
+Prince of Persia,6,049-4ED-E66,Start on level 2,Official Code - GGCD1.txt,344
+Prince of Persia,7,059-4ED-E66,Start on level 3,Official Code - GGCD1.txt,345
+Prince of Persia,8,069-4ED-E66,Start on level 4,Official Code - GGCD1.txt,346
+Prince of Persia,9,079-4ED-E66,Start on level 5,Official Code - GGCD1.txt,347
+Prince of Persia,10,089-4ED-E66,Start on level 6,Official Code - GGCD1.txt,348
+Prince of Persia,11,099-4ED-E66,Start on level 7,Official Code - GGCD1.txt,349
+Prince of Persia,12,0A9-4ED-E66,Start on level 8,Official Code - GGCD1.txt,350
+Prince of Persia,13,0B9-4ED-E66,Start on level 9,Official Code - GGCD1.txt,351
+Prince of Persia,14,0C9-4ED-E66,Start on level 10,Official Code - GGCD1.txt,352
+Prince of Persia,15,0D9-4ED-E66,Start on level 11,Official Code - GGCD1.txt,353
+Prince of Persia,16,0E9-4ED-E66,Start on level 12,Official Code - GGCD1.txt,354
+Prince of Persia,17,0F9-4ED-E66,Start on level 13,Official Code - GGCD1.txt,355
+Prince of Persia,18,109-4ED-E66,Walk all the way to the left to see ending,Official Code - GGCD1.txt,356
+Quest for the Shaven Yak Starring Ren Hoek and Stimpy,1,013-4EE-E66,Start with 1 life,Official Code - GGCD14.txt,1461
+Quest for the Shaven Yak Starring Ren Hoek and Stimpy,2,053-4EE-E66,Start with 5 lives,Official Code - GGCD14.txt,1462
+Quest for the Shaven Yak Starring Ren Hoek and Stimpy,3,093-4EE-E66,Start with 9 lives,Official Code - GGCD14.txt,1463
+Quest for the Shaven Yak Starring Ren Hoek and Stimpy,4,001-D8F-5D4,Start on a strange level,Official Code - GGCD14.txt,1464
+Quest for the Shaven Yak Starring Ren Hoek and Stimpy,5,001-B8E-3BE,Infinite lives,Official Code - GGCD14.txt,1465
+Quest for the Shaven Yak Starring Ren Hoek and Stimpy,6,00E-ACB-3BE,Infinite energy,Official Code - GGCD14.txt,1466
+Quest for the Shaven Yak Starring Ren Hoek and Stimpy,7,021-C0E-F72,Stimpy starts with less energy after 1st life,Official Code - GGCD14.txt,1467
+Quest for the Shaven Yak Starring Ren Hoek and Stimpy,8,031-C0E-F72,Stimpy starts with half energy after 1st life,Official Code - GGCD14.txt,1468
+Quest for the Shaven Yak Starring Ren Hoek and Stimpy,9,00E-E7C-E6E,Invincible after first hit,Official Code - GGCD14.txt,1469
+Quest for the Shaven Yak Starring Ren Hoek and Stimpy,10,01E-ECB-803,You still get hurt when you flash,Official Code - GGCD14.txt,1470
+Quest for the Shaven Yak Starring Ren Hoek and Stimpy,11,99E-ECB-803,Flash twice as long after getting hit,Official Code - GGCD14.txt,1471
+Quest for the Shaven Yak Starring Ren Hoek and Stimpy,12,FFE-ECB-803,Flash longer after getting hit,Official Code - GGCD14.txt,1472
+Quest for the Shaven Yak Starring Ren Hoek and Stimpy,13,00E-ECB-803,Flash a lot longer after getting hit,Official Code - GGCD14.txt,1473
+R.C. Grand Prix,1,2DD-68D-19A,1st race is 0:45 instead of 1:00,Official Code - GGCD1.txt,357
+R.C. Grand Prix,2,78D-68D-19A,1st race is 2:00,Official Code - GGCD1.txt,358
+R.C. Grand Prix,3,FFD-68D-19A,1st race is 4:15,Official Code - GGCD1.txt,359
+R.C. Grand Prix,4,2DD-69D-803,2nd race is 0:45 instead of 1:30,Official Code - GGCD1.txt,360
+R.C. Grand Prix,5,78D-69D-803,2nd race is 2:00,Official Code - GGCD1.txt,361
+R.C. Grand Prix,6,FFD-69D-803,2nd race is 4:15,Official Code - GGCD1.txt,362
+R.C. Grand Prix,7,2DD-6AD-A2B,3rd race is 0:45 instead of 1:20,Official Code - GGCD1.txt,363
+R.C. Grand Prix,8,78D-6AD-A2B,3rd race is 2:00,Official Code - GGCD1.txt,364
+R.C. Grand Prix,9,FFD-6AD-A2B,3rd race is 4:15,Official Code - GGCD1.txt,365
+R.C. Grand Prix,10,2DD-6BD-E60,4th race is 0:45 instead of 2:00,Official Code - GGCD1.txt,366
+R.C. Grand Prix,11,78D-6BD-E60,4th race is 2:00,Official Code - GGCD1.txt,367
+R.C. Grand Prix,12,FFD-6BD-E60,4th race is 4:15,Official Code - GGCD1.txt,368
+R.C. Grand Prix,13,3EB-94F-80E + FFB-95F-193,Time for all races is 4:15,Official Code - GGCD1.txt,369
+R.C. Grand Prix,14,000-BFC-5DD + 000-C0C-A23,Items are free if you have enough money,Official Code - GGCD1.txt,370
+RBI Baseball '94,1,00B-FAE-3BA,Almost no strikes,Official Code - GGCD14.txt,1435
+RBI Baseball '94,2,01C-85E-E66,1 strike needed for an out,Official Code - GGCD14.txt,1436
+RBI Baseball '94,3,02C-85E-E66,2 strikes needed for an out,Official Code - GGCD14.txt,1437
+RBI Baseball '94,4,05C-85E-E66,5 strikes needed for an out,Official Code - GGCD14.txt,1438
+RBI Baseball '94,5,0EC-85E-E66,15 strikes needed for an out,Official Code - GGCD14.txt,1439
+RBI Baseball '94,6,00C-ADE-3BA,Never strike outs,Official Code - GGCD14.txt,1440
+RBI Baseball '94,7,00C-07E-D59,Never walk,Official Code - GGCD14.txt,1441
+RBI Baseball '94,8,01C-8DE-F7A,1 ball needed for walk,Official Code - GGCD14.txt,1442
+RBI Baseball '94,9,05C-8DE-F7A,5 balls needed for walk,Official Code - GGCD14.txt,1443
+RBI Baseball '94,10,0AC-8DE-F7A,10 balls needed for walk,Official Code - GGCD14.txt,1444
+RBI Baseball '94,11,0EC-8DE-F7A,15 balls needed for walk,Official Code - GGCD14.txt,1445
+RBI Baseball '94,12,000-0C5-3BA,No scoring--swtich off when your at bat to score,Official Code - GGCD14.txt,1446
+Revenge of Drancon,1,05D-DDF-E66,Start with 5 lives,Official Code - GGCD1.txt,371
+Revenge of Drancon,2,07D-DDF-E66,Start with 7 lives,Official Code - GGCD1.txt,372
+Revenge of Drancon,3,0CD-DDF-E66 ,Start with 12 lives,Official Code - GGCD1.txt,373
+Revenge of Drancon,4,195-DDF-E66 ,Start with 25 lives,Official Code - GGCD1.txt,374
+Revenge of Drancon,5,325-DDF-E66 ,Start with 50 lives,Official Code - GGCD1.txt,375
+Revenge of Drancon,6,635-DDF-E66 ,Start with 99 lives,Official Code - GGCD1.txt,376
+Revenge of Drancon,7,055-649-D5A,Start with 5 health/vitality units,Official Code - GGCD1.txt,377
+Revenge of Drancon,8,085-649-D5A,Start with 8 health/vitality units,Official Code - GGCD1.txt,378
+Revenge of Drancon,,*=Don't grab any fruit,,Official Code - GGCD1.txt,379
+Revenge of Drancon,9,195-649-D5A,*Start with 25 health/vitality units,Official Code - GGCD1.txt,380
+Revenge of Drancon,10,325-649-D5A,*Start with 50 health/vitality units,Official Code - GGCD1.txt,381
+Revenge of Drancon,11,635-649-D5A,*Start with 99 health/vitality units,Official Code - GGCD1.txt,382
+Road Rash,1,00A-C6C-E62,Don't lose speed on grass,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1177
+Road Rash,2,3EA-C3C-08A + FFA-C4C-E62,Always travel at max speed--must press button 1 to start moving,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1178
+Road Rash,3,058-49C-916,Start with very little bike energy,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1179
+Road Rash,4,FF8-49C-916,Start with mega bike energy,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1180
+Road Rash,5,213-054-91D,Infinite bike energy,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1181
+Road Rash,6,001-24A-A2C,Biker information disappears,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1182
+Road Rash,7,00D-B5E-E6E,Infinite time,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1183
+Road Rash,8,3EE-9A5-4CA + 00E-9B5-F7A,Inflict more damage when you punch other bikers,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1184
+Robocop 3,8,019-86F-E6E,100 bullets on pick-up,Official Code - GGCD3.txt,949
+Robocop 3,1,31E-13F-2A6,Start with 1 life,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1185
+Robocop 3,2,35E-13F-2A6,Start with 5 lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1186
+Robocop 3,3,39E-13F-2A6,Start with 9 lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1187
+Robocop 3,4,3AB-30D-2A2,Infinite lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1188
+Robocop 3,5,3AA-BF6-2A2 + 3AC-156-2A2,Infinite energy,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1189
+Robocop 3,6,3AD-346-2A2,Power-ups do nothing,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1190
+Robocop 3,7,000-E05-E6E,Infinite timer,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1191
+Robocop 3,8,099-86F-E6E,Start 1st life with 900 bullets,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1192
+Robocop 3,9,006-64D-A2C,Infinite ammo all guns,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1193
+Robocop versus the Terminator,1,039-09D-E6E,Start on level 3--streets of Detroit,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1194
+Robocop versus the Terminator,2,059-09D-E6E,Start on level 5--Delta City under construction,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1195
+Robocop versus the Terminator,3,079-09D-E6E,Start on a secret level,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1196
+Robocop versus the Terminator,4,014-2FA-6EA,Start with very little energy,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1197
+Robocop versus the Terminator,5,00C-61B-A29,Infinite energy,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1198
+Robocop versus the Terminator,6,01C-56B-E62,Don't flash after getting hit,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1199
+Robocop versus the Terminator,7,59C-56B-E62,Flash longer after getting hit,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1200
+Robocop versus the Terminator,8,C9D-FAD-3BF,Invincible after getting hit once,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1201
+Robocop versus the Terminator,9,01A-5F8-912,Full energy pots restore a small amount of energy,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1202
+Robocop versus the Terminator,10,19A-5F8-912,Full energy pots restore all your energy,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1203
+Robocop versus the Terminator,11,019-12D-F76 + 009-10D-F77,Mega-lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1204
+Robocop versus the Terminator,12,099-12D-F76 + 009-10D-F77,Start with 7 lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1205
+Samurai Shodown,1,00C-B3D-3BE,Infinite time,Official Code - GGCD13.txt,1419
+Samurai Shodown,2,3EC-62D-80E + 32C-63D-193,Start round with 50 seconds,Official Code - GGCD13.txt,1420
+Samurai Shodown,3,3EC-62D-80E + 3CC-63D-193,Start round with 60 seconds,Official Code - GGCD13.txt,1421
+Samurai Shodown,4,3EC-62D-80E + 4BC-63D-193,Start round with 75 seconds,Official Code - GGCD13.txt,1422
+Samurai Shodown,5,14F-4BF-E6B,Both players start with 1/4 energy,Official Code - GGCD13.txt,1423
+Samurai Shodown,6,22F-4BF-E6B,Both players start with 1/2 energy,Official Code - GGCD13.txt,1424
+Samurai Shodown,7,30F-4BF-E6B,Both players start with 3/4 energy,Official Code - GGCD13.txt,1425
+Samurai Shodown,8,01B-F4D-EB9,Infinite energy,Official Code - GGCD13.txt,1426
+Samurai Shodown,9,3EC-51D-191 + 01C-53D-08A,Get Pow from every hit,Official Code - GGCD13.txt,1427
+Samurai Shodown,10,007-CAD-3B2,Once you have Pow you keep it,Official Code - GGCD13.txt,1428
+Samurai Shodown,11,20B-4BC-F77 + 06B-4AC-E68,All hits do massive damage,Official Code - GGCD13.txt,1429
+Shaq-Fu,1,7E6-C0F-3BE + 7E6-CEF-3BE,Infinite time,Official Code - GGCD17.txt,1620
+Shaq-Fu,2,01A-2AD-F7E,Start with 10 seconds,Official Code - GGCD17.txt,1621
+Shaq-Fu,3,09A-2AD-F7E,Start with 90 seconds,Official Code - GGCD17.txt,1622
+Shaq-Fu,4,0FA-2AD-F7E,Start with 150 seconds,Official Code - GGCD17.txt,1623
+Shaq-Fu,5,019-FED-2A2 + 019-FFD-2A2 + 01A-B4D-2A2,Start with very little energy,Official Code - GGCD17.txt,1624
+Shaq-Fu,6,0D9-FED-2A2 + 0D9-FFD-2A2 + 0DA-B4D-2A2,Start with 1/4 energy,Official Code - GGCD17.txt,1625
+Shaq-Fu,7,199-FED-2A2 + 199-FFD-2A2 + 19A-B4D-2A2,Start with 1/2 energy,Official Code - GGCD17.txt,1626
+Shaq-Fu,8,229-FED-2A2 + 229-FFD-2A2 + 22A-B4D-2A2,Start with 3/4 energy,Official Code - GGCD17.txt,1627
+Shaq-Fu,9,FF9-FED-2A2 + FF9-FFD-2A2 + FFA-B4D-2A2,Start with MEGA energy,Official Code - GGCD17.txt,1628
+Shaq-Fu,10,007-F5B-F72,Roundhouse kick does nothing,Official Code - GGCD17.txt,1629
+Shaq-Fu,11,017-F5B-F72,Roundhouse kick does very little damage,Official Code - GGCD17.txt,1630
+Shaq-Fu,12,1A7-F5B-F72,Roundhouse kick does more damage,Official Code - GGCD17.txt,1631
+Shaq-Fu,13,407-F5B-F72,Roundhouse kick kills,Official Code - GGCD17.txt,1632
+Shaq-Fu,14,007-D1B-F7A,Jumping punch does nothing,Official Code - GGCD17.txt,1633
+Shaq-Fu,15,017-D1B-F7A,Jumping punch does very little damage,Official Code - GGCD17.txt,1634
+Shaq-Fu,16,1A7-D1B-F7A,Jumping punch does more damage,Official Code - GGCD17.txt,1635
+Shaq-Fu,17,407-D1B-F7A,Jumping punch kills,Official Code - GGCD17.txt,1636
+Shaq-Fu,18,008-21B-D5A,Flaming roundhouse does nothing,Official Code - GGCD17.txt,1637
+Shaq-Fu,19,018-21B-D5A,Flaming roundhouse does very little damage,Official Code - GGCD17.txt,1638
+Shaq-Fu,20,1A8-21B-D5A,Flaming roundhouse does more damage,Official Code - GGCD17.txt,1639
+Shaq-Fu,21,408-21B-D5A,Flaming roundhouse kills,Official Code - GGCD17.txt,1640
+Shaq-Fu,22,007-81B-F7A,Straight kick does nothing,Official Code - GGCD17.txt,1641
+Shaq-Fu,23,017-81B-F7A,Straight kick does very little damage,Official Code - GGCD17.txt,1642
+Shaq-Fu,24,1A7-81B-F7A,Straight kick does more damage,Official Code - GGCD17.txt,1643
+Shaq-Fu,25,407-81B-F7A,Straight kick kills,Official Code - GGCD17.txt,1644
+Shaq-Fu,26,007-F9B-F7A,Roundhouse sweep does nothing,Official Code - GGCD17.txt,1645
+Shaq-Fu,27,017-F9B-F7A,Roundhouse sweep does very little damage,Official Code - GGCD17.txt,1646
+Shaq-Fu,28,1A7-F9B-F7A,Roundhouse sweep does more damage,Official Code - GGCD17.txt,1647
+Shaq-Fu,29,407-F9B-F7A,Roundhouse sweep kills,Official Code - GGCD17.txt,1648
+Shaq-Fu,30,007-71B-F7A,Standing punch does nothing,Official Code - GGCD17.txt,1649
+Shaq-Fu,31,017-71B-F7A,Standing punch does very little damage,Official Code - GGCD17.txt,1650
+Shaq-Fu,32,1A7-71B-F7A,Standing punch does more damage,Official Code - GGCD17.txt,1651
+Shaq-Fu,33,407-71B-F7A,Standing punch kills,Official Code - GGCD17.txt,1652
+Shinobi,1,21F-055-2A2,Infinite energy,Official Code - GGCD1.txt,383
+Shinobi,2,006-06D-3BE,Infinite lives,Official Code - GGCD1.txt,384
+Shinobi,3,06B-75C-F72,Start with 6 lives,Official Code - GGCD1.txt,385
+Shinobi,4,08B-75C-F72,Start with 8 lives,Official Code - GGCD1.txt,386
+Shinobi,5,09B-75C-F72,Start with 9 lives,Official Code - GGCD1.txt,387
+Shinobi,6,21E-BA5-2A2,"On highway stage, jump onto road and stop traffic",Official Code - GGCD1.txt,388
+Shinobi II The Silent Fury,1,052-50F-F7A,Start with 4 energy bars,Official Code - GGCD1.txt,389
+Shinobi II The Silent Fury,2,072-50F-F7A,Start with 6 energy bars,Official Code - GGCD1.txt,390
+Shinobi II The Silent Fury,3,0A2-50F-F7A,Start with 9 energy bars--ignore counter,Official Code - GGCD1.txt,391
+Shinobi II The Silent Fury,4,21A-41C-2A2,Infinite energy,Official Code - GGCD1.txt,392
+Shinobi II The Silent Fury,5,008-30D-3BE,Infinite ninjitsu magic,Official Code - GGCD1.txt,393
+Shinobi II The Silent Fury,6,032-58F-F7A,Start with 4 lives,Official Code - GGCD1.txt,394
+Shinobi II The Silent Fury,7,062-58F-F7A,Start with 7 lives,Official Code - GGCD1.txt,395
+Shinobi II The Silent Fury,8,092-58F-F7A,Start with 10 lives,Official Code - GGCD1.txt,396
+Shinobi II The Silent Fury,9,00B-A0C-3BE,Infinite lives,Official Code - GGCD1.txt,397
+Slider,1,023-46F-F7A,Start with 3 lives,Official Code - GGCD1.txt,403
+Slider,2,073-46F-F7A,Start with 8 lives,Official Code - GGCD1.txt,404
+Slider,3,0B3-46F-F7A,Start with 12 lives,Official Code - GGCD1.txt,405
+Slider,4,007-01F-19E,Infinite lives,Official Code - GGCD1.txt,406
+Slider,5,00B-F6E-E65,Infinite time (ignore counter),Official Code - GGCD1.txt,407
+Sonic Chaos,1,008-3BD-E6E,Infinite time,Official Code - GGCD2.txt,713
+Sonic Chaos,2,022-1EC-E6E,Each ring worth 2,Official Code - GGCD2.txt,714
+Sonic Chaos,3,042-1EC-E6E,Each ring worth 4,Official Code - GGCD2.txt,715
+Sonic Chaos,4,062-1EC-E6E,Each ring worth 6,Official Code - GGCD2.txt,716
+Sonic Chaos,5,082-1EC-E6E,Each ring worth 8,Official Code - GGCD2.txt,717
+Sonic Chaos,6,0A2-1EC-E6E,Each ring worth 10,Official Code - GGCD2.txt,718
+Sonic Chaos,7,3A9-DCB-2A2,Never lose rings,Official Code - GGCD2.txt,719
+Sonic Chaos,8,22A-91D-2A2,Start with some rings most of the time,Official Code - GGCD2.txt,720
+Sonic Chaos,11,506-93C-E66,Sonic starts with 50 lives,Official Code - GGCD2.txt,723
+Sonic Chaos,12,996-93C-E66,Sonic starts with 99 lives,Official Code - GGCD2.txt,724
+Sonic Chaos,13,014-23E-E66,Sonic continues with 1 life,Official Code - GGCD2.txt,725
+Sonic Chaos,14,094-23E-E66,Sonic continues with 9 lives,Official Code - GGCD2.txt,726
+Sonic Chaos,15,504-23E-E66,Sonic continues with 50 lives,Official Code - GGCD2.txt,727
+Sonic Chaos,16,994-23E-E66,Sonic continues with 99 lives,Official Code - GGCD2.txt,728
+Sonic Chaos,17,016-99C-F7E,Tails starts with 1 life,Official Code - GGCD2.txt,729
+Sonic Chaos,18,096-99C-F7E,Tails starts with 9 lives,Official Code - GGCD2.txt,730
+Sonic Chaos,19,506-99C-F7E,Tails starts with 50 lives,Official Code - GGCD2.txt,731
+Sonic Chaos,20,996-99C-F7E,Tails starts with 99 lives,Official Code - GGCD2.txt,732
+Sonic Chaos,21,014-28E-F7E,Tails continues with 1 life,Official Code - GGCD2.txt,733
+Sonic Chaos,22,094-28E-F7E,Tails continues with 9 lives,Official Code - GGCD2.txt,734
+Sonic Chaos,23,504-28E-F7E,Tails continues with 50 lives,Official Code - GGCD2.txt,735
+Sonic Chaos,24,994-28E-F7E,Tails continues with 99 lives,Official Code - GGCD2.txt,736
+Sonic Chaos,25,3A6-24E-2A2,Infinite lives,Official Code - GGCD2.txt,737
+Sonic Chaos,,DONT COMBINE ANY OF CODES 26 THRU 35 WITH ANY OF 9 THRU 25,,Official Code - GGCD2.txt,738
+Sonic Chaos,26,1F6-9EC-08F + 996-A0C-F7D,Sonic starts on Gigapolis Zone,Official Code - GGCD2.txt,739
+Sonic Chaos,27,3D6-9EC-08F + 996-A0C-F7D,Sonic starts on Sleeping Egg Zone,Official Code - GGCD2.txt,740
+Sonic Chaos,28,006-9EC-08F + 996-A0C-F7D,Sonic starts on Mecha Green Hill Zone,Official Code - GGCD2.txt,741
+Sonic Chaos,29,3C6-9EC-08F + 996-A0C-F7D,Sonic starts on Aqua Planet Zone,Official Code - GGCD2.txt,742
+Sonic Chaos,30,056-93C-E66 + 006-9EC-08F + 996-A0C-F7D,Sonic starts on Electric Egg Zone with 5 lives,Official Code - GGCD2.txt,743
+Sonic Chaos,31,016-99C-F7E + 1F6-9EC-08F + 996-A0C-F7D,Tails starts on Gigapolis Zone with 1 life,Official Code - GGCD2.txt,744
+Sonic Chaos,32,1F6-9EC-08F + 996-A0C-F7D,Tails starts on Sleeping Egg Zone,Official Code - GGCD2.txt,745
+Sonic Chaos,33,036-99C-F7E + 006-9EC-08F + 996-A0C-F7D,Tails starts on Mecha Green Hill Zone with 3 lives,Official Code - GGCD2.txt,746
+Sonic Chaos,34,3D6-9EC-08F + 996-A0C-F7D,Tails starts on Aqua Planet Zone,Official Code - GGCD2.txt,747
+Sonic Chaos,35,006-9EC-08F + 996-A0C-F7D,Tails starts on Electric Egg Zone,Official Code - GGCD2.txt,748
+Sonic Chaos,1,092-1EC-E6E,Collect 1 ring and you get 9 ,Official Code - GGCD2.txt,749
+Sonic Chaos,2,032-1EC-E6E,Collect 1 ring and you get 3 ,Official Code - GGCD2.txt,750
+Sonic Chaos,3,FF2-1EC-E6E,Collect 1 ring and you get 65,Official Code - GGCD2.txt,751
+Sonic Chaos,4,3A9-DAB-2A2,No loss of rings on collision,Official Code - GGCD2.txt,752
+Sonic Chaos,5,016-93C-E66,Start with 1 life ,Official Code - GGCD2.txt,753
+Sonic Chaos,6,056-93C-E66,Start with 5 lives ,Official Code - GGCD2.txt,754
+Sonic Chaos,7,096-93C-E66,Start with 9 lives ,Official Code - GGCD2.txt,755
+Sonic Chaos,9,008-41D-3B7,No clock timer,Official Code - GGCD2.txt,757
+Sonic Chaos,10,3C8-33F-5D4,Start on level 2-2,Official Code - GGCD2.txt,758
+Sonic Chaos,11,3AA-A3B-2A2,One hit and you are invincible (you must have a ring when you get hit),Official Code - GGCD2.txt,759
+Sonic Chaos,12,208-4BB-F72,Hold right on the joypad and Sonic will finish the level by himself. Switch ff the code when you reach level 3,Official Code - GGCD2.txt,760
+Sonic the Hedgehog 2,1,009-04F-3BE,Infinite lives,Official Code - GGCD1.txt,440
+Sonic the Hedgehog 2,2,A78-92C-19E,Invincible after 1 ring--except on act 3,Official Code - GGCD1.txt,441
+Sonic the Hedgehog 2,3,026-5ED-E6E,Each ring worth 2 points,Official Code - GGCD1.txt,442
+Sonic the Hedgehog 2,4,036-5ED-E6E,Each ring worth 3 points,Official Code - GGCD1.txt,443
+Sonic the Hedgehog 2,5,046-5ED-E6E,Each ring worth 4 points,Official Code - GGCD1.txt,444
+Sonic the Hedgehog 2,6,056-5ED-E6E,Each ring worth 5 points,Official Code - GGCD1.txt,445
+Sonic the Hedgehog 2,7,066-5ED-E6E,Each ring worth 6 points,Official Code - GGCD1.txt,446
+Sonic the Hedgehog 2,8,076-5ED-E6E,Each ring worth 7 points,Official Code - GGCD1.txt,447
+Sonic the Hedgehog 2,9,086-5ED-E6E,Each ring worth 8 points,Official Code - GGCD1.txt,448
+Sonic the Hedgehog 2,10,3A7-E4C-2A2,Don't lose rings when hit,Official Code - GGCD1.txt,449
+Sonic the Hedgehog 2,11,012-B8D-E66,Start with 1 life,Official Code - GGCD1.txt,450
+Sonic the Hedgehog 2,12,052-B8D-E66,Start with 5 lives,Official Code - GGCD1.txt,451
+Sonic the Hedgehog 2,13,092-B8D-E66,Start with 9 lives,Official Code - GGCD1.txt,452
+Sonic the Hedgehog 2,14,001-12D-3B7,Stop timer,Official Code - GGCD1.txt,453
+Sonic the Hedgehog 2,15,3E2-E4D-3B4 + 012-E5D-E69,Start on Act 2,Official Code - GGCD1.txt,454
+Sonic the Hedgehog 2,16,3E2-E4D-3B4 + 022-E5D-E69,Start on Act 3,Official Code - GGCD1.txt,455
+Sonic the Hedgehog --Version 0,,"NOTE: THERE ARE 2 VERSIONS OF THIS GAME. IF THESE CODES DON'T WORK ON YOUR GAME, TRY THE 'VERSION 1' CODES (PAGE 63)",,Official Code - GGCD1.txt,408
+Sonic the Hedgehog --Version 0,1,007-01A-3BE,Infinite lives,Official Code - GGCD1.txt,409
+Sonic the Hedgehog --Version 0,,"*=Ring counter goes back to zero at each 100 points, but you get an extra life each time",,Official Code - GGCD1.txt,410
+Sonic the Hedgehog --Version 0,2,020-54A-E6E,*Rings worth 2 points,Official Code - GGCD1.txt,411
+Sonic the Hedgehog --Version 0,3,030-54A-E6E,*Rings worth 3 points,Official Code - GGCD1.txt,412
+Sonic the Hedgehog --Version 0,4,040-54A-E6E,*Rings worth 4 points,Official Code - GGCD1.txt,413
+Sonic the Hedgehog --Version 0,5,050-54A-E6E,*Rings worth 5 points,Official Code - GGCD1.txt,414
+Sonic the Hedgehog --Version 0,6,060-54A-E6E,*Rings worth 6 points,Official Code - GGCD1.txt,415
+Sonic the Hedgehog --Version 0,7,070-54A-E6E,*Rings worth 7 points,Official Code - GGCD1.txt,416
+Sonic the Hedgehog --Version 0,8,080-54A-E6E,*Rings worth 8 points,Official Code - GGCD1.txt,417
+Sonic the Hedgehog --Version 0,9,3A0-21C-2A2,Never lose rings,Official Code - GGCD1.txt,418
+Sonic the Hedgehog --Version 0,10,003-F8C-3B7,Stop timer,Official Code - GGCD1.txt,419
+Sonic the Hedgehog --Version 0,11,013-7DE-E66,Start with 1 life,Official Code - GGCD1.txt,420
+Sonic the Hedgehog --Version 0,12,053-7DE-E66,Start with 5 lives,Official Code - GGCD1.txt,421
+Sonic the Hedgehog --Version 0,13,093-7DE-E66,Start with 9 lives,Official Code - GGCD1.txt,422
+Sonic the Hedgehog --Version 1,,"NOTE: THERE ARE 2 VERSIONS OF THIS GAME. IF THESE CODES DON'T WORK ON YOUR GAME, TRY THE 'VERSION 0' CODES (ABOVE)",,Official Code - GGCD1.txt,423
+Sonic the Hedgehog --Version 1,1,003-8CE-5D4 + 013-88E-91A,"Start on Green Hill Zone, part 2",Official Code - GGCD1.txt,424
+Sonic the Hedgehog --Version 1,2,003-8CE-5D4 + 023-88E-91A,"Start on Green Hill Zone, part 3",Official Code - GGCD1.txt,425
+Sonic the Hedgehog --Version 1,3,003-8CE-5D4 + 033-88E-91A,"Start on Bridge, part 1",Official Code - GGCD1.txt,426
+Sonic the Hedgehog --Version 1,4,003-8CE-5D4 + 043-88E-91A,"Start on Bridge, part 2",Official Code - GGCD1.txt,427
+Sonic the Hedgehog --Version 1,5,003-8CE-5D4 + 053-88E-91A,"Start on Bridge, part 3",Official Code - GGCD1.txt,428
+Sonic the Hedgehog --Version 1,6,003-8CE-5D4 + 063-88E-91A,"Start on Jungle, part 1",Official Code - GGCD1.txt,429
+Sonic the Hedgehog --Version 1,7,003-8CE-5D4 + 073-88E-91A,"Start on Jungle, part 2",Official Code - GGCD1.txt,430
+Sonic the Hedgehog --Version 1,8,003-8CE-5D4 + 083-88E-91A,"Start on Jungle, part 3",Official Code - GGCD1.txt,431
+Sonic the Hedgehog --Version 1,9,003-8CE-5D4 + 093-88E-91A,Start on Labyrinth part 1,Official Code - GGCD1.txt,432
+Sonic the Hedgehog --Version 1,10,003-8CE-5D4 + 0A3-88E-91A,Start on Labyrinth part 2,Official Code - GGCD1.txt,433
+Sonic the Hedgehog --Version 1,11,003-8CE-5D4 + 0B3-88E-91A,Start on Labyrinth part 3,Official Code - GGCD1.txt,434
+Sonic the Hedgehog --Version 1,12,003-8CE-5D4 + 0C3-88E-91A,"Start on Scrap Brain, part 1",Official Code - GGCD1.txt,435
+Sonic the Hedgehog --Version 1,13,003-8CE-5D4 + 0D3-88E-91A,"Start on Scrap Brain, part 2",Official Code - GGCD1.txt,436
+Sonic the Hedgehog --Version 1,14,003-8CE-5D4 + 0E3-88E-91A,"Start on Scrap Brain, part 3",Official Code - GGCD1.txt,437
+Sonic the Hedgehog --Version 1,15,003-8CE-5D4 + 0F3-88E-91A,"Start on Sky Base, part 1",Official Code - GGCD1.txt,438
+Sonic the Hedgehog --Version 1,16,2A2-86A-6E2,Don't lose breath underwater,Official Code - GGCD1.txt,439
+Sonic the Hedgehog: Triple Trouble,1,003-E0E-E6E,Infinite lives,Official Code - GGCD9.txt,1290
+Sonic the Hedgehog: Triple Trouble,2,00A-E6E-E66,Start with 1 lives,Official Code - GGCD9.txt,1291
+Sonic the Hedgehog: Triple Trouble,3,04A-E6E-E66,Start with 5 lives,Official Code - GGCD9.txt,1292
+Sonic the Hedgehog: Triple Trouble,4,14A-E6E-E66,Start with 15 lives,Official Code - GGCD9.txt,1293
+Sonic the Hedgehog: Triple Trouble,5,99A-E6E-E66,Start with 100 lives,Official Code - GGCD9.txt,1294
+Sonic the Hedgehog: Triple Trouble,6,00A-AFE-5D4,Start high in the air on Act 1--1st life only,Official Code - GGCD9.txt,1295
+Sonic the Hedgehog: Triple Trouble,7,053-AFC-E6E,Each ring worth 5,Official Code - GGCD9.txt,1296
+Sonic the Hedgehog: Triple Trouble,8,0A3-AFC-E6E,Each ring worth 10,Official Code - GGCD9.txt,1297
+Sonic the Hedgehog: Triple Trouble,9,3A8-E4C-2A2 + 3A8-E7C-2A2,Infinite rings,Official Code - GGCD9.txt,1298
+Sonic the Hedgehog: Triple Trouble,10,3E3-A4E-082 + 023-A5E-F77 + 003-A6E-A2D,Finish the first part of an Act and warp to the next Act,Official Code - GGCD9.txt,1299
+Sonic the Hedgehog: Triple Trouble,11,008-FFC-08B,Very little flash time after getting hit,Official Code - GGCD9.txt,1300
+Sonic the Hedgehog: Triple Trouble,12,998-FFC-08B,Flash longer after getting hit,Official Code - GGCD9.txt,1301
+Sonic the Hedgehog: Triple Trouble,13,3A9-D5C-2A2,Get hit and stay invincible,Official Code - GGCD9.txt,1302
+Sonic the Hedgehog: Triple Trouble,14,C37-F2C-E61,Invincible--spikes still kill hurt you,Official Code - GGCD9.txt,1303
+Sonic the Hedgehog: Triple Trouble,15,00A-EBE-E6E,Start with no continues,Official Code - GGCD9.txt,1304
+Sonic the Hedgehog: Triple Trouble,16,05A-EBE-E6E,Start with 5 continues,Official Code - GGCD9.txt,1305
+Sonic the Hedgehog: Triple Trouble,17,0AA-EBE-E6E,Start with 10 continues,Official Code - GGCD9.txt,1306
+Sonic the Hedgehog: Triple Trouble,18,3A5-60E-2A2,Infinite continues,Official Code - GGCD9.txt,1307
+Sonic the Hedgehog: Triple Trouble,19,00F-88D-3B7,Infinite timer,Official Code - GGCD9.txt,1308
+Space Harrier,1,040-8DF-E62,Start with 5 lives,Official Code - GGCD1.txt,456
+Space Harrier,2,060-8DF-E62,Start with 7 lives,Official Code - GGCD1.txt,457
+Space Harrier,3,080-8DF-E62 ,Start with 9 lives,Official Code - GGCD1.txt,458
+Space Harrier,4,21A-63D-2A2,Infinite lives,Official Code - GGCD1.txt,459
+Space Harrier,,"If you don't see yourself on screen, press right arrow.",,Official Code - GGCD1.txt,460
+Space Harrier,,*=Practice codes only. Switch off to go on to next level,,Official Code - GGCD1.txt,461
+Space Harrier,5,025-CCE-B3E + 005-C9E-6EA + 005-CAC-E62,*Start on stage 2,Official Code - GGCD1.txt,462
+Space Harrier,6,035-CCE-B3E + 005-C9E-6EA + 005-CAC-E62,*Start on stage 3,Official Code - GGCD1.txt,463
+Space Harrier,7,045-CCE-B3E + 005-C9E-6EA + 005-CAC-E62,*Start on stage 4,Official Code - GGCD1.txt,464
+Space Harrier,8,065-CCE-B3E + 005-C9E-6EA + 005-CAC-E62,*Start on stage 5,Official Code - GGCD1.txt,465
+Space Harrier,9,075-CCE-B3E + 005-C9E-6EA + 005-CAC-E62,*Start on stage 6,Official Code - GGCD1.txt,466
+Space Harrier,10,0A5-CCE-B3E + 005-C9E-6EA + 005-CAC-E62,*Start on stage 7,Official Code - GGCD1.txt,467
+Space Harrier,11,0B5-CCE-B3E + 005-C9E-6EA + 005-CAC-E62,*Start on stage 8,Official Code - GGCD1.txt,468
+Space Harrier,12,0D5-CCE-B3E + 005-C9E-6EA + 005-CAC-E62,*Start on stage 9,Official Code - GGCD1.txt,469
+Space Harrier,13,0E5-CCE-B3E + 005-C9E-6EA + 005-CAC-E62,*Start on stage 10,Official Code - GGCD1.txt,470
+Space Harrier,14,0F5-CCE-B3E + 005-C9E-6EA + 005-CAC-E62,*Start on stage 11,Official Code - GGCD1.txt,471
+Space Harrier,15,115-CCE-B3E + 005-C9E-6EA + 005-CAC-E62,*Start on stage 12-1,Official Code - GGCD1.txt,472
+Space Harrier,16,125-CCE-B3E + 005-C9E-6EA + 005-CAC-E62,*Start on stage 12-2,Official Code - GGCD1.txt,473
+Space Harrier,17,135-CCE-B3E + 005-C9E-6EA + 005-CAC-E62,*Start on stage 12-3,Official Code - GGCD1.txt,474
+Space Harrier,18,145-CCE-B3E + 005-C9E-6EA + 005-CAC-E62,*Start on stage 12-4,Official Code - GGCD1.txt,475
+Space Harrier,19,165-CCE-B3E + 005-C9E-6EA + 005-CAC-E62,*Start on stage 12-5,Official Code - GGCD1.txt,476
+Space Harrier,20,175-CCE-B3E + 005-C9E-6EA + 005-CAC-E62,*Start on stage 12-6,Official Code - GGCD1.txt,477
+Space Harrier,21,185-CCE-B3E + 005-C9E-6EA + 005-CAC-E62,*Start on stage 12-7,Official Code - GGCD1.txt,478
+Space Harrier,22,195-CCE-B3E + 005-C9E-6EA + 005-CAC-E62,*Watch ending,Official Code - GGCD1.txt,479
+Space Harrier,23,004-A6E-3BE,Floor doesn't move,Official Code - GGCD1.txt,480
+Spider-Man: Return of the Sinister Six,1,003-39F-5D4,Begin with web fluid,Official Code - GGCD2.txt,761
+Spider-Man: Return of the Sinister Six,2,013-35F-C4A,Start with less energy,Official Code - GGCD2.txt,762
+Spider-Man: Return of the Sinister Six,3,0A3-35F-C4A,Start with more energy,Official Code - GGCD2.txt,763
+Spider-Man: Return of the Sinister Six,4,0F3-35F-C4A,Start with a lot more energy,Official Code - GGCD2.txt,764
+Spider-Man: Return of the Sinister Six,5,FF3-2FF-E6E,"Gives you 2,540 points",Official Code - GGCD2.txt,765
+Spider-Man: Return of the Sinister Six,6,063-1DF-E66,Start with 5 continues,Official Code - GGCD2.txt,766
+Spider-Man: Return of the Sinister Six,7,093-1DF-E66,Start with 8 continues,Official Code - GGCD2.txt,767
+Spider-Man: Return of the Sinister Six,8,3A4-0DD-2A2,Infinite energy,Official Code - GGCD2.txt,768
+Star Wars,1,00D-92B-3B7 + 3AD-93B-2A2,Infinite energy--all players,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1206
+Star Wars,,Codes for Leia:,,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1207
+Star Wars,2,20E-347-A2A,Start with 7 energy pts.--1st life,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1208
+Star Wars,3,30E-347-A2A,Start with 9 energy pts.--1st life,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1209
+Star Wars,4,40E-347-A2A,Start with 12 energy pts.--1st life,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1210
+Star Wars,5,210-D48-91D,Storm troopers are invincible,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1211
+Star Wars,6,C90-B2E-5DD,Everything on the screen disappears except you and obstacles,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1212
+Star Wars,7,20F-48A-A2A,Start with 7 energy pts.--after 1st life,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1213
+Star Wars,8,30F-48A-A2A,Start with 9 energy pts.--after 1st life,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1214
+Star Wars,9,40F-48A-A2A,Start with 12 energy pts.--after 1st life,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1215
+Star Wars,,Codes for Luke:,,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1216
+Star Wars,10,05E-237-E62,Start with 6 lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1217
+Star Wars,11,09E-237-E62,Start with 10 lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1218
+Star Wars,12,30A-12B-A2A,Start with 16 energy pts.--1st life,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1219
+Star Wars,13,40A-12B-A2A,Start with 22 energy pts.--1st life,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1220
+Star Wars,14,50A-12B-A2A,Start with 27 energy pts.--1st life,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1221
+Star Wars,15,30F-6FA-A2A,Start with 16 energy pts. after 1st life,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1222
+Star Wars,16,40F-6FA-A2A,Start with 22 energy pts. after 1st life,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1223
+Star Wars,17,50F-6FA-A2A,Start with 27 energy pts. after 1st life,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1224
+Star Wars,18,3AF-6BA-2A2,Infinite lives,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1225
+Streets of Rage,1,027 3CF E66,Start with 2 lives,Official Code - GGCD1.txt,481
+Streets of Rage,2,057 3CF E66,Start with 5 lives,Official Code - GGCD1.txt,482
+Streets of Rage,3,087 3CF E66,Start with 8 lives,Official Code - GGCD1.txt,483
+Streets of Rage,4,3A9-667-2A2,Infinite time,Official Code - GGCD1.txt,484
+Streets of Rage,,*=First section of round only,,Official Code - GGCD1.txt,485
+Streets of Rage,5,090-6E7-F7A,*Start with 90 seconds instead of 40 in Round 1,Official Code - GGCD1.txt,486
+Streets of Rage,6,020-6E7-F7A,*Start with 20 seconds in Round 1,Official Code - GGCD1.txt,487
+Streets of Rage,7,090-737-F7E,*Start with 90 seconds instead of 50 in Rounds 2 thru 4,Official Code - GGCD1.txt,488
+Streets of Rage,8,020-737-F7E,*Start with 20 seconds in Rounds 2 thru 4,Official Code - GGCD1.txt,489
+Streets of Rage,9,090-787-F7E,*Start with 90 seconds instead of 50 in Round 5,Official Code - GGCD1.txt,490
+Streets of Rage,10,020-787-F7E,*Start with 20 seconds in Round 5,Official Code - GGCD1.txt,491
+Streets of Rage,11,008-DD6-19E,Infinite lives,Official Code - GGCD1.txt,492
+Streets of Rage,12,009-0A6-3B7,Infinite energy,Official Code - GGCD1.txt,493
+Streets of Rage,13,027-3CF-E66,Start with 2 lives,Official Code - GGCD1.txt,494
+Streets of Rage,14,057-3CF-E66,Start with 5 lives,Official Code - GGCD1.txt,495
+Streets of Rage,15,087-3CF-E66,Start with 8 lives--ignore counter,Official Code - GGCD1.txt,496
+Streets of Rage,16,677-CC9-913,Start on Round 2,Official Code - GGCD1.txt,497
+Streets of Rage,17,677-CC9-913 + 027-CA9-E6E,Start on Round 3,Official Code - GGCD1.txt,498
+Streets of Rage,18,677-CC9-913 + 037-CA9-E6E,Start on Round 4,Official Code - GGCD1.txt,499
+Streets of Rage,19,677-CC9-913 + 047-CA9-E6E,Start on Round 5,Official Code - GGCD1.txt,500
+Streets of Rage 2,1,012-BEF-E66,Start with only 1 life,Official Code - GGCD2.txt,769
+Streets of Rage 2,2,062-BEF-E66,Start with 6 lives,Official Code - GGCD2.txt,770
+Streets of Rage 2,3,092-BEF-E66,Start with 9 lives,Official Code - GGCD2.txt,771
+Streets of Rage 2,4,218-15C-91D,Infinite lives,Official Code - GGCD2.txt,772
+Streets of Rage 2,5,0BE-F79-B36,Start 1st life with only 1/2 energy,Official Code - GGCD2.txt,773
+Streets of Rage 2,6,3CE-F79-B36,Start 1st life with 2x energy,Official Code - GGCD2.txt,774
+Streets of Rage 2,7,21A-FBC-91D,Infinite energy,Official Code - GGCD2.txt,775
+Streets of Rage 2,8,00A-05B-E6E,Infinite time,Official Code - GGCD2.txt,776
+Streets of Rage 2,9,012-C3F-E6E + 832-C5F-F74,Start on stage 2,Official Code - GGCD2.txt,777
+Streets of Rage 2,10,022-C3F-E6E + 832-C5F-F74,Start on stage 3,Official Code - GGCD2.txt,778
+Streets of Rage 2,11,032-C3F-E6E + 832-C5F-F74,Start on stage 4,Official Code - GGCD2.txt,779
+Streets of Rage 2,12,042-C3F-E6E + 832-C5F-F74,Start on stage 5,Official Code - GGCD2.txt,780
+Streets of Rage 2,13,052-C3F-E6E + 832-C5F-F74,Start on stage 6,Official Code - GGCD2.txt,781
+Streets of Rage 2,14,3E8-83A-91D + 098-84A-193 + 008-85A-E6F,Mega-power attacks,Official Code - GGCD2.txt,782
+Strider Returns,1,00E-4AA-19E,Infinite time,Official Code - GGCD2.txt,783
+Strider Returns,2,3AB-A2F-2A2,Infinite lives,Official Code - GGCD2.txt,784
+Strider Returns,3,015-F8F-F7E,Start with 2 lives,Official Code - GGCD2.txt,785
+Strider Returns,4,035-F8F-F7E,Start with 4 lives,Official Code - GGCD2.txt,786
+Strider Returns,5,075-F8F-F7E,Start with 8 lives,Official Code - GGCD2.txt,787
+Strider Returns,6,095-F8F-F7E,Start with 10 lives,Official Code - GGCD2.txt,788
+Strider Returns,7,3A6-73A-2A2,Infinite energy,Official Code - GGCD2.txt,789
+Strider Returns,8,007-3BF-6EB,Start with energy at 1,Official Code - GGCD2.txt,790
+Strider Returns,9,107-3BF-6EB,Start with energy at 3,Official Code - GGCD2.txt,791
+Strider Returns,10,207-3BF-6EB Start with energy at 6,,Official Code - GGCD2.txt,792
+Strider Returns,11,907-3BF-6EB Start with energy at 19,,Official Code - GGCD2.txt,793
+Strider Returns,12,AF6-72A-A24 Invincibility,,Official Code - GGCD2.txt,794
+Strider Returns,13,015-F3F-E6A Start on level 2,,Official Code - GGCD2.txt,795
+Strider Returns,14,025-F3F-E6A Start on level 3,,Official Code - GGCD2.txt,796
+Strider Returns,15,035-F3F-E6A Start on level 4,,Official Code - GGCD2.txt,797
+Strider Returns,16,045-F3F-E6A Start on level 5,,Official Code - GGCD2.txt,798
+Strider Returns,17,001-49C-19E + 213-BEC-2A2,Loads of bad guys,Official Code - GGCD2.txt,799
+Strider Returns,18,C91-4AC-2A2 + 000-71C-195,Only 1 animal enemy in game,Official Code - GGCD2.txt,800
+Super Golf,1,21F-4CE-19D,Turn codes on and bad shots won't be scored,Official Code - GGCD1.txt,501
+Super Golf,2,00F-16C-3BE,Take points on chr select and put them into point bin (but doesn't take them off your set value),Official Code - GGCD1.txt,502
+Super Golf,3,AF2-83E-08F,No wind,Official Code - GGCD1.txt,503
+Super Golf,4,02F-6DF-E6E,Start on hole 2,Official Code - GGCD1.txt,504
+Super Golf,5,03F-6DF-E6E,Start on hole 3,Official Code - GGCD1.txt,505
+Super Golf,6,04F-6DF-E6E,Start on hole 4,Official Code - GGCD1.txt,506
+Super Golf,7,05F-6DF-E6E,Start on hole 5,Official Code - GGCD1.txt,507
+Super Golf,8,06F-6DF-E6E,Start on hole 6,Official Code - GGCD1.txt,508
+Super Golf,9,07F-6DF-E6E,Start on hole 7,Official Code - GGCD1.txt,509
+Super Golf,10,08F-6DF-E6E,Start on hole 8,Official Code - GGCD1.txt,510
+Super Golf,11,09F-6DF-E6E,Start on hole 9,Official Code - GGCD1.txt,511
+Super Golf,12,0AF-6DF-E6E,Start on hole 10,Official Code - GGCD1.txt,512
+Super Golf,13,0BF-6DF-E6E,Start on hole 11,Official Code - GGCD1.txt,513
+Super Golf,14,0CF-6DF-E6E,Start on hole 12,Official Code - GGCD1.txt,514
+Super Golf,15,0DF-6DF-E6E,Start on hole 13,Official Code - GGCD1.txt,515
+Super Golf,16,0EF-6DF-E6E,Start on hole 14,Official Code - GGCD1.txt,516
+Super Golf,17,0FF-6DF-E6E,Start on hole 15,Official Code - GGCD1.txt,517
+Super Golf,18,10F-6DF-E6E,Start on hole 16,Official Code - GGCD1.txt,518
+Super Golf,19,11F-6DF-E6E,Start on hole 17,Official Code - GGCD1.txt,519
+Super Golf,20,12F-6DF-E6E,Start on hole 18,Official Code - GGCD1.txt,520
+Super Off-Road,1,05A-D8F-80E,Start with 5 nitros,Official Code - GGCD1.txt,521
+Super Off-Road,2,0AA-D8F-80E,Start with 10 nitros,Official Code - GGCD1.txt,522
+Super Off-Road,3,0FA-D8F-80E,Start with 15 nitros,Official Code - GGCD1.txt,523
+Super Off-Road,4,215-B0C-91D,Infinite nitros,Official Code - GGCD1.txt,524
+Super Off-Road,5,001-98B-A2C,Almost infinite money,Official Code - GGCD1.txt,525
+Super Off-Road,6,004-50E-A22,Infinite time--ignore counter,Official Code - GGCD1.txt,526
+Super Smash TV,1,001-76D-19E,Infinite lives,Official Code - GGCD1.txt,527
+Super Smash TV,2,050-809-F76,Start with 5 lives,Official Code - GGCD1.txt,528
+Super Smash TV,3,080-809-F76,Start with 8 lives,Official Code - GGCD1.txt,529
+Super Smash TV,4,0A0-809-F76,Start with 10 lives,Official Code - GGCD1.txt,530
+Super Smash TV,5,C93-605-91D,Green men freeze,Official Code - GGCD1.txt,531
+Super Smash TV,6,051-299-F76,Start with 5 credits,Official Code - GGCD1.txt,532
+Super Smash TV,7,081-299-F76,Start with 8 credits,Official Code - GGCD1.txt,533
+Super Smash TV,8,0A1-299-F76,Start with 10 credits,Official Code - GGCD1.txt,534
+Super Space Invaders,1,02A-E1C-E66,Start with 2 lives,Official Code - GGCD1.txt,535
+Super Space Invaders,2,05A-E1C-E66,Start with 5 lives,Official Code - GGCD1.txt,536
+Super Space Invaders,3,07A-E1C-E66,Start with 7 lives,Official Code - GGCD1.txt,537
+Super Space Invaders,4,00F-D5B-3BE,Infinite lives,Official Code - GGCD1.txt,538
+Super Space Invaders,5,02B-09E-E66,Start with 3 shields,Official Code - GGCD1.txt,539
+Super Space Invaders,6,05B-09E-E66,Start with 6 shields,Official Code - GGCD1.txt,540
+Super Space Invaders,7,07B-09E-E66,Start with 8 shields,Official Code - GGCD1.txt,541
+Super Space Invaders,8,007-43E-E6E,Infinite shields--except when stomped,Official Code - GGCD1.txt,542
+Surf Ninjas,1,015-36F-E66,Start with only 1 life ,Official Code - GGCD2.txt,801
+Surf Ninjas,2,065-36F-E66,Start with 6 lives ,Official Code - GGCD2.txt,802
+Surf Ninjas,3,095-36F-E66,Start with 9 lives ,Official Code - GGCD2.txt,803
+Surf Ninjas,4,3AE-28F-2A2,Infinite lives ,Official Code - GGCD2.txt,804
+Surf Ninjas,5,00F-47A-E6E,Infinite Zatches,Official Code - GGCD2.txt,805
+Surf Ninjas,6,010-AEF-E6A,"Start on level 2: Docks of Venice, CA ",Official Code - GGCD2.txt,806
+Surf Ninjas,7,020-AEF-E6A,Start on level 3: Island of Patu San ,Official Code - GGCD2.txt,807
+Surf Ninjas,8,040-AEF-E6A,Start on level 4: jungle of Patu San ,Official Code - GGCD2.txt,808
+Surf Ninjas,9,050-AEF-E6A,Start at the cave of the ancients ,Official Code - GGCD2.txt,809
+Surf Ninjas,,CODES 10 AND 11 ARE FOR PRACTICE ONLY. YOU CANNOT COMPLETE THE GAME WITHOUT COLLECTING THE KWANTZU IN THE CAVE OF THE ANCIENTS,,Official Code - GGCD2.txt,810
+Surf Ninjas,10,060-AEF-E6A,Start on level 5: Colonel Chi's prison camp ,Official Code - GGCD2.txt,811
+Surf Ninjas,11,070-AEF-E6A,Start on level 6: Colonel Chi's Fortress ,Official Code - GGCD2.txt,812
+Surf Ninjas,12,005-49F-E62,Start with no Zatches,Official Code - GGCD2.txt,813
+Surf Ninjas,13,015-49F-E62,Start with only 1 Zatch ,Official Code - GGCD2.txt,814
+Surf Ninjas,14,105-49F-E62,Start with 10 Zatches ,Official Code - GGCD2.txt,815
+Surf Ninjas,15,505-49F-E62,Start with 50 Zatches ,Official Code - GGCD2.txt,816
+Surf Ninjas,16,005-4AF-E66,Start with no hints ,Official Code - GGCD2.txt,817
+Surf Ninjas,17,015-4AF-E66,Start with only one hint ,Official Code - GGCD2.txt,818
+Surf Ninjas,18,105-4AF-E66,Start with 10 hints ,Official Code - GGCD2.txt,819
+Surf Ninjas,19,505-4AF-E66,Start with 50 hints ,Official Code - GGCD2.txt,820
+Surf Ninjas,20,005-4BF-B3E,Start with no weapons ,Official Code - GGCD2.txt,821
+Surf Ninjas,21,055-4BF-B3E,Start with 5 of each weapon ,Official Code - GGCD2.txt,822
+Surf Ninjas,22,305-4BF-B3E,Start with 30 of each weapon ,Official Code - GGCD2.txt,823
+Surf Ninjas,23,505-4BF-B3E,Start with 50 of each weapon ,Official Code - GGCD2.txt,824
+Surf Ninjas,24,005-4CF-2AA,Start with no gold ,Official Code - GGCD2.txt,825
+Surf Ninjas,25,155-4CF-2AA,Start with only 15 gold coins ,Official Code - GGCD2.txt,826
+Surf Ninjas,26,605-4CF-2AA,Start with 60 gold coins ,Official Code - GGCD2.txt,827
+Surf Ninjas,27,995-4CF-2AA,Start with 99 gold coins ,Official Code - GGCD2.txt,828
+Surf Ninjas,28,C9A-ABA-19E,Infinite hints,Official Code - GGCD2.txt,829
+Surf Ninjas,29,000-72E-E6E,Infinite weapons,Official Code - GGCD2.txt,830
+Surf Ninjas,30,3A2-9A9-2A2,Infinite gold,Official Code - GGCD2.txt,831
+Taz In Escape from Mars,1,3AE-916-2A2,Infinite lives,Official Code - GGCD10.txt,1315
+Taz In Escape from Mars,2,215-545-6E2,Infinite energy,Official Code - GGCD10.txt,1316
+Taz In Escape from Mars,3,304-7B6-E6A,Start with Bubble Gum Float,Official Code - GGCD10.txt,1317
+Taz In Escape from Mars,4,C94-7C6-2A2,Keep weapons for a little while after you die,Official Code - GGCD10.txt,1318
+Taz In Escape from Mars,5,015-735-197,Less flash time after getting hit,Official Code - GGCD10.txt,1319
+Taz In Escape from Mars,6,995-735-197,More flash time after getting hit,Official Code - GGCD10.txt,1320
+Taz In Escape from Mars,7,004-E46-3BA + 004-E06-3BE,Always invincible,Official Code - GGCD10.txt,1321
+Taz-Mania,1,031-CFD-F7E,Start level 1 with 3 lives,Official Code - GGCD1.txt,543
+Taz-Mania,2,071-CFD-F7E,Start level 1 with 7 lives,Official Code - GGCD1.txt,544
+Taz-Mania,3,091-CFD-F7E,Start level 1 with 9 lives,Official Code - GGCD1.txt,545
+Taz-Mania,4,00E-32E-3B7,Infinite lives,Official Code - GGCD1.txt,546
+Tengen World Cup Soccer,1,002-D4C-19E,Infinite time--switch on to freeze time,Official Code - GGCD2.txt,832
+Tengen World Cup Soccer,2,002-6DC-F7A + 012-6EC-F7E,1 min. per half,Official Code - GGCD2.txt,833
+Tengen World Cup Soccer,3,002-6DC-F7A + 052-6EC-F7E,5 mins. per half,Official Code - GGCD2.txt,834
+Tengen World Cup Soccer,4,062-6DC-F7A + 002-6EC-F7E,60 mins. per half,Official Code - GGCD2.txt,835
+Tengen World Cup Soccer,,World Cup Mode Codes:,,Official Code - GGCD2.txt,836
+Tengen World Cup Soccer,6,3EF-2BE-082 + 00F-2DE-E6D,Start with 43 points to use on the edit screen,Official Code - GGCD2.txt,837
+Tengen World Cup Soccer,,Exhibition Mode Only:,,Official Code - GGCD2.txt,838
+Tengen World Cup Soccer,7,0AF-21E-B3A,Start with only 10 points on edit screen,Official Code - GGCD2.txt,839
+Tengen World Cup Soccer,8,2AF-21E-B3A,Start with 50 points on edit screen,Official Code - GGCD2.txt,840
+Tengen World Cup Soccer,9,3CF-21E-B3A,Start with 60 points on edit screen,Official Code - GGCD2.txt,841
+Tengen World Cup Soccer,10,001-21D-19E,Infinite points on edit screen,Official Code - GGCD2.txt,842
+The Incredible Crash Dummies,1,01C-40F-F7E,Start with 1 life instead of 5,Official Code - GGCD1.txt,194
+The Incredible Crash Dummies,2,03C-40F-F7E,Start with 3 lives,Official Code - GGCD1.txt,195
+The Incredible Crash Dummies,3,07C-40F-F7E,Start with 7 lives,Official Code - GGCD1.txt,196
+The Incredible Crash Dummies,4,09C-40F-F7E,Start with 9 lives,Official Code - GGCD1.txt,197
+The Incredible Crash Dummies,5,00F-45F-19E,Infinite lives,Official Code - GGCD1.txt,198
+The Incredible Crash Dummies,6,403-69E-6EB,Start with 40 seconds on day 1 instead of 60,Official Code - GGCD1.txt,199
+The Incredible Crash Dummies,7,803-69E-6EB,Start with 80 seconds on day 1,Official Code - GGCD1.txt,200
+The Incredible Crash Dummies,8,993-69E-6EB,Start with 99 seconds on day 1,Official Code - GGCD1.txt,201
+The Incredible Crash Dummies,9,205-FFE-E6B,Start with 20 seconds on day 2 instead of 40,Official Code - GGCD1.txt,202
+The Incredible Crash Dummies,10,605-FFE-E6B,Start with 60 seconds on day 2,Official Code - GGCD1.txt,203
+The Incredible Crash Dummies,11,995-FFE-E6B,Start with 99 seconds on day 2,Official Code - GGCD1.txt,204
+The Incredible Crash Dummies,12,009-7AD-E6E,Infinite time (must switch off at end of day),Official Code - GGCD1.txt,205
+The Incredible Crash Dummies,13,3EC-29F-082 + 01C-2AF-E62 + 00C-2BF-E69,Start on day 2,Official Code - GGCD1.txt,206
+The Incredible Crash Dummies,14,3EC-29F-082 + 00C-2BF-E69,Start on day 3,Official Code - GGCD1.txt,207
+The Incredible Crash Dummies,15,3EC-29F-082 + 03C-2AF-E62 + 00C-2BF-E69,Start on day 4,Official Code - GGCD1.txt,208
+The Incredible Crash Dummies,16,3EC-29F-082 + 04C-2AF-E62 + 00C-2BF-E69,Start on day 5,Official Code - GGCD1.txt,209
+The Incredible Crash Dummies,1,05C-40F-F7E,Start with 5 lives,Official Code - GGCD2.txt,650
+The Incredible Crash Dummies,4,00B-E1A-E69,Fire has no effect on Crash Dummies,Official Code - GGCD2.txt,653
+The Itchy & Scratchy Game,1,002-76F-B30,Start with 4 lives and 4 continues,Official Code - GGCD16.txt,1562
+The Itchy & Scratchy Game,2,012-72F-F7A,Start with 1 life,Official Code - GGCD16.txt,1563
+The Itchy & Scratchy Game,3,072-72F-F7A,Start with 7 lives,Official Code - GGCD16.txt,1564
+The Itchy & Scratchy Game,4,092-72F-F7A,Start with 9 lives,Official Code - GGCD16.txt,1565
+The Itchy & Scratchy Game,5,0F2-72F-F7A,Start with 15 lives,Official Code - GGCD16.txt,1566
+The Itchy & Scratchy Game,6,3EE-3D5-B31 + 01E-3E5-F7E,Start with very little energy on your first life,Official Code - GGCD16.txt,1567
+The Itchy & Scratchy Game,7,3AA-CAB-2A2,Infinite energy,Official Code - GGCD16.txt,1568
+The Itchy & Scratchy Game,8,3E9-14E-4CA + 3E5-54C-4CA,Almost Invincible,Official Code - GGCD16.txt,1569
+The Itchy & Scratchy Game,9,3A2-E2B-2A2,Infinite lives,Official Code - GGCD16.txt,1570
+The Lion King,,CODES 1-6: ONLY WORK ON THE LION PRINCE DIFFICULTY LEVEL,,Official Code - GGCD11.txt,1349
+The Lion King,1,017-B98-E66,Start with 1 life,Official Code - GGCD11.txt,1350
+The Lion King,2,057-B98-E66,Start with 5 lives,Official Code - GGCD11.txt,1351
+The Lion King,3,097-B98-E66,Start with 9 lives,Official Code - GGCD11.txt,1352
+The Lion King,4,027-BB8-C4A,Start with 1/2 of a Circle of Life,Official Code - GGCD11.txt,1353
+The Lion King,5,047-BB8-C4A,Start with 1 Circle of life,Official Code - GGCD11.txt,1354
+The Lion King,6,007-BB8-C4A,Start with no Circles of Life,Official Code - GGCD11.txt,1355
+The Lion King,7,3A6-439-2A2,Get hit and become Invisible,Official Code - GGCD11.txt,1356
+The Lion King,8,0F6-639-7FB,Flash less after getting hit,Official Code - GGCD11.txt,1357
+The Lion King,9,FF6-639-7FB,Flash longer after getting hit,Official Code - GGCD11.txt,1358
+The Lion King,10,3A9-9E9-2A2,Ladybugs don't restore any energy,Official Code - GGCD11.txt,1359
+The Lion King,11,3A6-88C-2A2,Infinite lives,Official Code - GGCD11.txt,1360
+The Lion King,12,3E5-B5A-4CA,Invisible,Official Code - GGCD11.txt,1361
+The Lion King,13,3E7-73B-7F4 + 3D7-76B-A27 + 327-77B-082,Invincible,Official Code - GGCD11.txt,1362
+The Lucky Dime Caper starring Donald Duck,1,047-B1F-E66,Start with 4 lives,Official Code - GGCD1.txt,264
+The Lucky Dime Caper starring Donald Duck,2,067-B1F-E66,Start with 6 lives,Official Code - GGCD1.txt,265
+The Lucky Dime Caper starring Donald Duck,3,087-B1F-E66,Start with 8 lives,Official Code - GGCD1.txt,266
+The Lucky Dime Caper starring Donald Duck,4,000-93D-E69,Infinite lives,Official Code - GGCD1.txt,267
+The Lucky Dime Caper starring Donald Duck,,"*=Don't pick up stars, ignore counter",,Official Code - GGCD1.txt,268
+The Lucky Dime Caper starring Donald Duck,5,047-E0E-E6E,*Start with 5 energy units,Official Code - GGCD1.txt,269
+The Lucky Dime Caper starring Donald Duck,6,067-E0E-E6E,*Start with 7 energy units,Official Code - GGCD1.txt,270
+The Lucky Dime Caper starring Donald Duck,7,087-E0E-E6E,*Start with 9 energy units,Official Code - GGCD1.txt,271
+The Lucky Dime Caper starring Donald Duck,8,21C-04E-91D,Infinite energy,Official Code - GGCD1.txt,272
+The Lucky Dime Caper starring Donald Duck,9,219-B3E-91D,After Donald loses 1 energy unit he is invincible,Official Code - GGCD1.txt,273
+The Majors: Pro Baseball,,Can switch codes on/off,,Official Code - GGCD1.txt,274
+The Majors: Pro Baseball,1,003-91C-19A,No strikeouts,Official Code - GGCD1.txt,275
+The Majors: Pro Baseball,2,043-93C-E66 4 strikes and you're out,,Official Code - GGCD1.txt,276
+The Majors: Pro Baseball,3,063-93C-E66 6 strikes and you're out,,Official Code - GGCD1.txt,277
+The Majors: Pro Baseball,4,003-56C-19A,1 ball and you walk,Official Code - GGCD1.txt,278
+The Simpsons: Bart Vs the Space Mutants,1,002-D09-E6E,Infinite coins,Official Code - GGCD1.txt,398
+The Simpsons: Bart Vs the Space Mutants,2,009-5DC-E6E,Infinite time,Official Code - GGCD1.txt,399
+The Simpsons: Bart Vs the Space Mutants,3,21D-18B-2A2 + 05E-A3E-A2A,Start with 5 coins,Official Code - GGCD1.txt,400
+The Simpsons: Bart Vs the Space Mutants,4,15E-A3E-A2A + 21D-18B-2A2,Start with 15 coins,Official Code - GGCD1.txt,401
+The Simpsons: Bart Vs the Space Mutants,5,21D-18B-2A2 + 20E-A3E-A2A,tart with 20 coins,Official Code - GGCD1.txt,402
+The Terminator,1,3AD-87C-2A2,Invincibility,Official Code - GGCD1.txt,547
+The Terminator,,*=Right amount of health does not appear until you get hit once.,,Official Code - GGCD1.txt,548
+The Terminator,2,4B7-72E-7FB,Start with about 75% health,Official Code - GGCD1.txt,549
+The Terminator,3,327-72E-7FB,Start with about 50% health,Official Code - GGCD1.txt,550
+The Terminator,4,197-72E-7FB,Start with about 25% health,Official Code - GGCD1.txt,551
+The Terminator,5,002-A7A-19E,Infinite time,Official Code - GGCD1.txt,552
+Tom and Jerry,1,C90-AFA-2A2,Infinite energy,Official Code - GGCD1.txt,553
+Tom and Jerry,2,0A8-D4E-C4A,Start with 5 hearts,Official Code - GGCD1.txt,554
+Tom and Jerry,3,0C8-D4E-C4A,Start with 6 hearts,Official Code - GGCD1.txt,555
+Tom and Jerry,4,04B-E77-F76,Start with 4 continues,Official Code - GGCD1.txt,556
+Tom and Jerry,5,08B-E77-F76,Start with 8 continues,Official Code - GGCD1.txt,557
+Tom and Jerry,6,00D-E56-19E,Infinite continues,Official Code - GGCD1.txt,558
+Tom and Jerry-The Movie,1,000-AEA-19E,Infinite energy,Official Code - GGCD14.txt,1447
+Tom and Jerry-The Movie,2,018-D4E-C4A,Start with very little energy,Official Code - GGCD14.txt,1448
+Tom and Jerry-The Movie,3,028-D4E-C4A,Start with less energy,Official Code - GGCD14.txt,1449
+Tom and Jerry-The Movie,4,0A8-D4E-C4A,Start with more energy,Official Code - GGCD14.txt,1450
+Tom and Jerry-The Movie,5,0F8-D4E-C4A,Start with even more energy,Official Code - GGCD14.txt,1451
+Tom and Jerry-The Movie,6,00B-E77-F76,Start with no continues,Official Code - GGCD14.txt,1452
+Tom and Jerry-The Movie,7,0AB-E77-F76,Start with 10 continues,Official Code - GGCD14.txt,1453
+Tom and Jerry-The Movie,8,0FB-E77-F76,Start with 15 continues,Official Code - GGCD14.txt,1454
+Tom and Jerry-The Movie,9,00E-CD6-19E,Infinite continues,Official Code - GGCD14.txt,1455
+Tom and Jerry-The Movie,10,3EB-FE7-2A2 + 01B-FF7-F7A + 00C-007-E6D,Start on level 1,Official Code - GGCD14.txt,1456
+Tom and Jerry-The Movie,11,3EB-FE7-2A2 + 02B-FF7-F7A + 00C-007-E6D,Start on level 2,Official Code - GGCD14.txt,1457
+Tom and Jerry-The Movie,12,3EB-FE7-2A2 + 03B-FF7-F7A + 00C-007-E6D,Start on level 3,Official Code - GGCD14.txt,1458
+Tom and Jerry-The Movie,13,3EB-FE7-2A2 + 04B-FF7-F7A + 00C-007-E6D,Start on level 4,Official Code - GGCD14.txt,1459
+Tom and Jerry-The Movie,14,3EB-FE7-2A2 + 05B-FF7-F7A + 00C-007-E6D,Watch the ending,Official Code - GGCD14.txt,1460
+"Vampire, Master of Darkness",1,00B-3AB-E6E,Infinite time,Official Code - GGCD1.txt,559
+"Vampire, Master of Darkness",2,022-727-E66,Start with 2 lives,Official Code - GGCD1.txt,560
+"Vampire, Master of Darkness",3,072-727-E66,Start with 7 lives,Official Code - GGCD1.txt,561
+"Vampire, Master of Darkness",4,092-727-E66,Start with 9 lives,Official Code - GGCD1.txt,562
+"Vampire, Master of Darkness",5,3A7-02B-2A2,Infinite energy--switch off codes if you get stuck,Official Code - GGCD1.txt,563
+"Vampire, Master of Darkness",6,3A1-2AE-2A2,Infinite lives,Official Code - GGCD1.txt,564
+"Vampire, Master of Darkness",7,3A3-23D-2A2,Infinite ammo for special weapons,Official Code - GGCD1.txt,565
+"Vampire, Master of Darkness",8,3C1-32E-5D4,Die and get special weapons given to you,Official Code - GGCD1.txt,566
+"Vampire, Master of Darkness",9,211-36E-2A2 + 211-39E-2A2,Don't lose special weapons after dying,Official Code - GGCD1.txt,567
+"Vampire, Master of Darkness",10,3E6-FFB-2AA + 207-00B-E6E + 007-01B-5D4,Invincibility,Official Code - GGCD1.txt,568
+Wimbledon Tennis,1,005-E0E-C45,Computer can't score,Official Code - GGCD1.txt,569
+Wimbledon Tennis,2,09B-515-D56,Tour mode 9 distribution points,Official Code - GGCD1.txt,570
+Wimbledon Tennis,3,19B-515-D56,Tour mode 25 distribution points,Official Code - GGCD1.txt,571
+Wimbledon Tennis,4,006-06E-C45,No games scored by computer,Official Code - GGCD1.txt,572
+Wimbledon Tennis,5,076-05E-F7A,Most games are given to you,Official Code - GGCD1.txt,573
+Winter Olympic Games,1,000-5A9-A29,Start on any skill level,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1229
+Winter Olympic Games,2,7E0-0BD-3B7 + C91-B2D-91D,Always gain speed on luge and bobsleigh,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1230
+Winter Olympic Games,3,01E-87D-F7E,1 shot on biathlon,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1231
+Winter Olympic Games,4,07E-87D-F7E,7 shots on biathlon,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1232
+Winter Olympic Games,5,09E-87D-F7E,9 shots on biathlon,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1233
+Winter Olympic Games,6,00A-02E-19A,Infinite time--biathlon,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1234
+Winter Olympic Games,7,2E8-51E-5DD + E08-52E-A23 + 188-53E-2AA,Full power on speed skating,"Official Code - GGCD5 (VOL. 1, NO. 2).txt",1235
+Wonderboy,1,05D-DDF-E66,Start with 5 lives,Official Code - GGCD1.txt,574
+Wonderboy,2,08D-DDF-E66,Start with 8 lives,Official Code - GGCD1.txt,575
+Wonderboy,3,0CD-DDF-E66 ,Start with 12 lives,Official Code - GGCD1.txt,576
+Wonderboy,4,055-7E9-D5A,Start with 5 health/vitality units,Official Code - GGCD1.txt,577
+Wonderboy,5,085-7E9-D5A,Start with 8 health/vitality units,Official Code - GGCD1.txt,578
+Woody Pop (Version A),,"NOTE: THERE ARE 2 VERSIONS OF THIS GAME. IF THE 'VERSION A' CODES DON'T WORK ON YOUR GAME, THEN TRY THE 'VERSION B'  CODES (BELOW)",,Official Code - GGCD1.txt,579
+Woody Pop (Version A),1,009-2AE-E6D,Infinite balls,Official Code - GGCD1.txt,580
+Woody Pop (Version A),2,0F7-34F-E66,Start with 15 balls,Official Code - GGCD1.txt,581
+Woody Pop (Version A),3,077-34F-E66,Start with 7 balls,Official Code - GGCD1.txt,582
+Woody Pop (Version A),4,017-34F-E66,Start with 1 ball,Official Code - GGCD1.txt,583
+Woody Pop (Version B),,"NOTE: THERE ARE 2 VERSIONS OF THIS GAME. IF THE 'VERSION B' CODES DON'T WORK ON YOUR GAME, THEN TRY THE 'VERSION A'  CODES (ABOVE)",,Official Code - GGCD1.txt,584
+Woody Pop (Version B),1,009-3FE-E6D,Infinite balls,Official Code - GGCD1.txt,585
+Woody Pop (Version B),2,0F7-16F-E66,Start with 15 balls,Official Code - GGCD1.txt,586
+Woody Pop (Version B),3,077-16F-E66,Start with 7 balls,Official Code - GGCD1.txt,587
+Woody Pop (Version B),4,017-16F-E66,Start with 1 ball,Official Code - GGCD1.txt,588
+World Series Baseball,1,009-76C-19A,Outs not counted--except strikeouts,Official Code - GGCD2.txt,843
+World Series Baseball,2,00A-C1E-19A,Can't walk,Official Code - GGCD2.txt,844
+World Series Baseball,3,01A-C3E-F7A,1 ball and you walk,Official Code - GGCD2.txt,845
+World Series Baseball,4,06A-C3E-F7A,6 balls and you walk,Official Code - GGCD2.txt,846
+World Series Baseball,5,09A-C3E-F7A,9 balls and you walk,Official Code - GGCD2.txt,847
+World Series Baseball,6,00A-37E-19A,No strikeouts,Official Code - GGCD2.txt,848
+World Series Baseball,7,01A-39E-E66,1 strike and you're out,Official Code - GGCD2.txt,849
+World Series Baseball,8,06A-39E-E66,6 strikes and you're out,Official Code - GGCD2.txt,850
+World Series Baseball,9,09A-39E-E66,9 strikes and you're out,Official Code - GGCD2.txt,851
+WWF Steel Cage Challenge,1,023-327-5D5,Start with no energy--Hulk Hogan,Official Code - GGCD2.txt,852
+WWF Steel Cage Challenge,2,4F3-327-5D5,Start with 1/4 energy--Hulk Hogan,Official Code - GGCD2.txt,853
+WWF Steel Cage Challenge,3,6A3-327-5D5,Start with 1/2 energy--Hulk Hogan,Official Code - GGCD2.txt,854
+WWF Steel Cage Challenge,4,C03-327-5D5,Start with 3/4 energy--Hulk Hogan,Official Code - GGCD2.txt,855
+WWF Steel Cage Challenge,5,453-8E7-5D5,Start with 1/4 energy--opponent,Official Code - GGCD2.txt,856
+WWF Steel Cage Challenge,6,6A3-8E7-5D5,Start with 1/2 energy--opponent,Official Code - GGCD2.txt,857
+WWF Steel Cage Challenge,7,C03-8E7-5D5,Start with 3/4 energy--opponent,Official Code - GGCD2.txt,858
+WWF Steel Cage Challenge,8,03B-BAB-C42,Not allowed outside ring for long,Official Code - GGCD2.txt,859
+WWF Steel Cage Challenge,9,003-076-E65,No out-of-ring counter for Hulk Hogan,Official Code - GGCD2.txt,860
+WWF Steel Cage Challenge,10,C98-076-6EE,"Hulk is invincible and so is opponent, who can only be body slammed",Official Code - GGCD2.txt,861
+WWF Steel Cage Challenge,11,XXC-E05-F7A,Stamp takes xx points from opponent [04],Official Code - GGCD2.txt,862
+WWF Steel Cage Challenge,12,XXB-EA5-F7A,Tummy bump takes 04,Official Code - GGCD2.txt,863
+WWF Steel Cage Challenge,13,FFB-845-A2A,Body slam causes max damage,Official Code - GGCD2.txt,864
+WWF Steel Cage Challenge,14,00B-845-A2A,Body slam causes no damage,Official Code - GGCD2.txt,865
+WWF Steel Cage Challenge,15,99B-845-A2A,Body slam causes 1/2 damage,Official Code - GGCD2.txt,866
