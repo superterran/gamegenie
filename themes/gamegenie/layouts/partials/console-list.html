@@ -1,0 +1,9 @@
+<div id="console-list">
+    <ul>
+        {{ range (readDir "data") }}
+        {{ $consolecsv := .Name }} 
+        {{ $console := replace $consolecsv ".csv" "" }}
+        <li><a href="#" class="{{ $console }}" onclick="document.querySelectorAll('div.console').forEach(function(div) { div.style.display = 'none' }); document.querySelector('div#console-{{ $console }}').style.display = 'block';">{{ $console }}</a></li>
+        {{ end }}
+    </ul>
+</div>

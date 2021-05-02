@@ -1,65 +1,24 @@
-<script src="js/lookup.js"></script>
+<!DOCTYPE html>
+<html>
+{{ partial "head" }}    
+<body>
 
-<ul>
-    {{ range (readDir "data") }}
-    {{ $consolecsv := .Name }} 
-    {{ $console := replace $consolecsv ".csv" "" }}
-    <li><a href="#" onclick="document.querySelectorAll('div.console').forEach(function(div) { div.style.display = 'none' }); document.querySelector('div#console-{{ $console }}').style.display = 'block';">{{ $console }}</a></li>
-    {{ end }}
-</ul>
 
-<div style="display: block; clear: both">
-    {{ range (readDir "data") }}
-    {{ $consolecsv := .Name }} 
-    {{ $console := replace $consolecsv ".csv" "" }}
-   
-    <div id="console-{{ $console }}" style="display: none" class="console">
+<div id="container">
 
-        <input type="text" id="input-{{ $console }}" onkeyup="gamegenieLookup('{{ $console }}')" placeholder="Search for games..">
+    {{ partial "header" }}
 
-        <table id="{{ $console }}">
-            {{ range $i, $r := getCSV "," "/data/" . $consolecsv }}
-            
-            {{ if eq $i 0 }}
-            {{ range $r }}
+    {{ partial "console-list" }}
 
-            {{end}}
-            {{end}}
-
-                {{ if eq $i 0 }}
-                <thead>
-                <th>Title</th>
-                    
-                <th>#</th>
-                
-                <th>Key in…</th>
-                
-                <th>Effect…</th>
-                
-                <th>Code Source</th>
-                
-                <th></th>
-                </thead>    
-                <tbody>    
-                {{end}}
-            
-
-            {{ if ge $i 1 }}
-            <tr>
-                {{ range  $r }}
-                <td>{{ . }}</td>
-                {{end}}
-            </tr>
-            {{end}}
-            {{ end }}
-        </tbody>
-        </table>
+    <div style="display: block; clear: both">
+        {{ range (readDir "data") }}
+            {{ partial "console-table" . "consolecsv" .Name }}
+        {{ end }} 
     </div>
-    {{ end }} 
+
+
+    {{ partial "footer" }}
+
 </div>
-
-
-<div style="display: block; clear: both">
-    <a href="https://drive.google.com/file/d/1MAglWiHliz4AnoABc6aWK2p0NDX0FCtF/view">sourced from here</a>
-</div>
-
+</body>
+</html>
