@@ -10,7 +10,7 @@
 
     {{ partial "console-list" }}
 
-    <div style="display: block; clear: both">
+    <div id="table-container">
         {{ range (readDir "data") }}
             {{ partial "console-table" . "consolecsv" .Name }}
         {{ end }} 
