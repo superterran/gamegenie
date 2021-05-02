@@ -2,10 +2,18 @@ body {
     background-color: darkred;
     text-align: center;
     color: white;
+    font-family: sans-serif;
+    background-image: url('../background.png');
 }
 
+#logo {
+    height: 70px;
+    width: auto;
+}
 body a {
     color: darkgrey;
+    text-decoration: none;
+    font-weight: bold;
 }
 
 #console-list ul {
@@ -47,6 +55,10 @@ body a {
     bottom: 0px;
     color: black;
 }
+
+/* #table-container table tr:first-child {background: #FFF} */
+#table-container table tr:nth-child(2n+2) {background: #CCC}
+
 
 #footer {
     position: absolute;
