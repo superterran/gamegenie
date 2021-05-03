@@ -11,9 +11,13 @@ body {
     width: auto;
 }
 body a {
-    color: darkgrey;
+    color:white;
     text-decoration: none;
     font-weight: bold;
+}
+
+body a:active {
+    color: pink;
 }
 
 #console-list ul {
@@ -54,7 +58,7 @@ body a {
     background-color: white;    
     position: absolute;
     top: 80px;
-    left: px;
+    left: 0px;
     right: 0px;
     bottom: 0px;
     color: black;
