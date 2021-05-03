@@ -3,6 +3,11 @@
     {{ $console := replace $consolecsv ".csv" "" }}
     {{ $csvpath := print $consolecsv | print "/data/"}}
     
+
+    <script>
+        gamegenieSelect("{{ $console }}");
+    </script>
+
     <div id="console-{{ $console }}" class="console">
 
         <input type="text" id="input-{{ $console }}" onkeyup="gamegenieLookup('{{ $console }}')" placeholder="Search for games..">
@@ -20,11 +25,11 @@
 
                 {{ if eq $i 0 }}
                 <thead>
-                <th width="20%">Title</th>
+                <th>Title</th>
                                
-                <th width="50%">Key in…</th>
+                <th>Key in…</th>
                 
-                <th width="30%">Effect…</th>
+                <th>Effect…</th>
                 
                 
                 </thead>    
@@ -46,8 +51,3 @@
         </table>
 
     </div>
-
-
-<script>
-    gamegenieSelect("{{ $console }}");
-</script>
