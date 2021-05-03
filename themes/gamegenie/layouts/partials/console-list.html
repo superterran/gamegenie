@@ -3,7 +3,6 @@
         {{ range (readDir "data") }}
         {{ $consolecsv := .Name }} 
         {{ $console := replace $consolecsv ".csv" "" }}
-
         
         <li onClick="window.location = '{{ absURL $console }}';"  class="{{ $console }}">{{ $console }}</li>
 

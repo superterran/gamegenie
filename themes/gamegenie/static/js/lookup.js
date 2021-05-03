@@ -22,15 +22,10 @@ function gamegenieLookup(table) {
   }
 
   function gamegenieSelect(console) {
-    document.querySelectorAll('div.console').forEach(function(div) { 
-        div.style.display = 'none'
-        // div.classList.remove('active');
-    });
 
     document.querySelectorAll('div#console-list li').forEach(function(div) { 
             div.classList.remove('active');
     });
     
-    document.querySelector('div#console-' + console).style.display = 'block';
     document.querySelector('div#console-list li.' + console).classList.add("active");
   }
