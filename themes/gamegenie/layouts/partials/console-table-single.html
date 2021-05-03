@@ -1,0 +1,48 @@
+{{ $consolecsv := .Params.csv }} 
+
+    {{ $console := replace $consolecsv ".csv" "" }}
+    {{ $csvpath := print $consolecsv | print "/data/"}}
+    
+    <div id="console-{{ $console }}" class="console">
+
+        <input type="text" id="input-{{ $console }}" onkeyup="gamegenieLookup('{{ $console }}')" placeholder="Search for games..">
+
+
+        <table id="{{ $console }}">
+
+            {{ range $i, $r := getCSV "," $csvpath }}
+            
+            {{ if eq $i 0 }}
+            {{ range $r }}
+
+            {{end}}
+            {{end}}
+
+                {{ if eq $i 0 }}
+                <thead>
+                <th width="20%">Title</th>
+                               
+                <th width="50%">Key in…</th>
+                
+                <th width="30%">Effect…</th>
+                
+                
+                </thead>    
+                <tbody>    
+                {{end}}
+            
+
+            {{ if ge $i 1 }}
+            <tr>
+             
+                <td>{{ index $r 0 }}</td>
+                <td>{{ index $r 2 }}</td>
+                <td>{{ index $r 3 }}</td>
+             
+            </tr>
+            {{end}}
+            {{ end }}
+        </tbody>
+        </table>
+
+    </div>

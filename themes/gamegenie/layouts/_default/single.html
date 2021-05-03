@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+{{ partial "head" }}    
+<body>
+
+
+<div id="container">
+
+    {{ partial "header" }}
+
+    {{ partial "console-list" }}
+
+    <div id="table-container">
+       {{ partial "console-table-single" . }}
+    </div>
+
+    {{ partial "footer" }}
+
+</div>
+</body>
+</html>

@@ -10,13 +10,6 @@
 
     {{ partial "console-list" }}
 
-    <div id="table-container">
-        {{ range (readDir "data") }}
-            {{ partial "console-table" . "consolecsv" .Name }}
-        {{ end }} 
-    </div>
-
-
     {{ partial "footer" }}
 
 </div>

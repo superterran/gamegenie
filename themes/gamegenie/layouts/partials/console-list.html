@@ -3,7 +3,10 @@
         {{ range (readDir "data") }}
         {{ $consolecsv := .Name }} 
         {{ $console := replace $consolecsv ".csv" "" }}
-        <li onclick="gamegenieSelect({{ $console }})" class="{{ $console }}">{{ $console }}</li>
+
+        
+        <li onClick="window.location = '{{ absURL $console }}';"  class="{{ $console }}">{{ $console }}</li>
+
         {{ end }}
     </ul>
 </div>
