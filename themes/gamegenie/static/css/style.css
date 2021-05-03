@@ -76,6 +76,13 @@ body a:active {
     height: 40px;
     left: 10px;
     right: 10px;
+    color: white;
+    text-shadow: 5px 5px 5px black;
+    font-weight: bold;
+    font-size: 22px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
 }
 
 .console input {

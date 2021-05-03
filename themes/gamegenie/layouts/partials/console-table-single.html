@@ -38,7 +38,7 @@
             
 
             {{ if ge $i 1 }}
-            <tr>
+            <tr onClick="document.querySelector('div#footer').innerText = '{{ index $r 2 }}'">
              
                 <td>{{ index $r 0 }}</td>
                 <td>{{ index $r 2 }}</td>
