@@ -28,6 +28,8 @@ body a:active {
 
     height: 80px;
 
+    padding-inline-start: 0px;
+
 }
 
 #console-list li {
