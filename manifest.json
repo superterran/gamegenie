@@ -1,4 +1,16 @@
 {
+
+    "short_name": "Game Genie",
+    "name": "Game Genie Code Lookup",
+
     "display":      "fullscreen",
-    "orientation":  "portrait" 
+    "orientation":  "portrait",
+    "icons": [
+        {
+          "src": "/gamegenie/icon.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+    ],
+    "theme_color": "#FF0000"
 }
